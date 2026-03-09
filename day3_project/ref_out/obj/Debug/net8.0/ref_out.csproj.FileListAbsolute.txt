@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day3_project\ref_out\obj\Debug\net8.0\ref_out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day3_project\ref_out\obj\Debug\net8.0\ref_out.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day3_project\ref_out\obj\Debug\net8.0\ref_out.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day3_project\ref_out\obj\Debug\net8.0\ref_out.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day3_project\ref_out\bin\Debug\net8.0\ref_out.exe
+C:\Users\Aman Anand\source\repos\day3_project\ref_out\bin\Debug\net8.0\ref_out.deps.json
+C:\Users\Aman Anand\source\repos\day3_project\ref_out\bin\Debug\net8.0\ref_out.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day3_project\ref_out\bin\Debug\net8.0\ref_out.dll
+C:\Users\Aman Anand\source\repos\day3_project\ref_out\bin\Debug\net8.0\ref_out.pdb
+C:\Users\Aman Anand\source\repos\day3_project\ref_out\obj\Debug\net8.0\ref_out.dll
+C:\Users\Aman Anand\source\repos\day3_project\ref_out\obj\Debug\net8.0\refint\ref_out.dll
+C:\Users\Aman Anand\source\repos\day3_project\ref_out\obj\Debug\net8.0\ref_out.pdb
+C:\Users\Aman Anand\source\repos\day3_project\ref_out\obj\Debug\net8.0\ref_out.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day3_project\ref_out\obj\Debug\net8.0\ref\ref_out.dll

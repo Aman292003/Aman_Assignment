@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="generic/generic.csproj" />
+  <Project Path="generic_dict_demo/generic_dict_demo.csproj" />
+  <Project Path="Queue-demo/Queue-demo.csproj" Id="e73a508e-def8-4512-a771-3e15026a25cf" />
+  <Project Path="Stack_demo/Stack_demo.csproj" />
+</Solution>

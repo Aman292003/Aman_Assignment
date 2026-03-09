@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\PerformanceTracker\obj\Debug\net8.0\PerformanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\PerformanceTracker\obj\Debug\net8.0\PerformanceTracker.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\PerformanceTracker\obj\Debug\net8.0\PerformanceTracker.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\PerformanceTracker\obj\Debug\net8.0\PerformanceTracker.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\PerformanceTracker\bin\Debug\net8.0\PerformanceTracker.exe
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\PerformanceTracker\bin\Debug\net8.0\PerformanceTracker.deps.json
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\PerformanceTracker\bin\Debug\net8.0\PerformanceTracker.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\PerformanceTracker\bin\Debug\net8.0\PerformanceTracker.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\PerformanceTracker\bin\Debug\net8.0\PerformanceTracker.pdb
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\PerformanceTracker\obj\Debug\net8.0\PerformanceTracker.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\PerformanceTracker\obj\Debug\net8.0\refint\PerformanceTracker.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\PerformanceTracker\obj\Debug\net8.0\PerformanceTracker.pdb
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\PerformanceTracker\obj\Debug\net8.0\PerformanceTracker.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\PerformanceTracker\obj\Debug\net8.0\ref\PerformanceTracker.dll

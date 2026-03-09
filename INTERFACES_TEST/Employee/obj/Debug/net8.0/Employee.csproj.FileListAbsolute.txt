@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\Employee\bin\Debug\net8.0\Employee.exe
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\Employee\bin\Debug\net8.0\Employee.deps.json
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\Employee\bin\Debug\net8.0\Employee.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\Employee\bin\Debug\net8.0\Employee.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\Employee\bin\Debug\net8.0\Employee.pdb
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\Employee\obj\Debug\net8.0\Employee.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\Employee\obj\Debug\net8.0\refint\Employee.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\Employee\obj\Debug\net8.0\Employee.pdb
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\Employee\obj\Debug\net8.0\Employee.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\Employee\obj\Debug\net8.0\ref\Employee.dll

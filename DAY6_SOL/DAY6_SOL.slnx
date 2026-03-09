@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="access_specifier/access_specifier.csproj" Id="21182228-5138-4d2b-88aa-093f7c2ef863" />
+  <Project Path="ClassLibrary1/ClassLibrary1.csproj" Id="5a649169-a302-4eb5-a08a-a51254450210" />
+  <Project Path="exceptions_demo/exceptions_demo.csproj" />
+  <Project Path="EXEPECTION_DEMO/EXEPECTION_DEMO.csproj" />
+  <Project Path="krystaldemo/krystaldemo.csproj" />
+</Solution>

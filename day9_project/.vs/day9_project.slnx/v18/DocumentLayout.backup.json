@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07437FD2-83DB-4EFB-86C1-178E683366F4}|NONGENERIC_sortedlist\\NONGENERIC_sortedlist.csproj|c:\\users\\aman anand\\source\\repos\\day9_project\\nongeneric_sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07437FD2-83DB-4EFB-86C1-178E683366F4}|NONGENERIC_sortedlist\\NONGENERIC_sortedlist.csproj|solutionrelative:nongeneric_sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B408E9-C7B4-47C2-A7EE-022A150076AE}|nongeneric_hashtable\\nongeneric_hashtable.csproj|c:\\users\\aman anand\\source\\repos\\day9_project\\nongeneric_hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B408E9-C7B4-47C2-A7EE-022A150076AE}|nongeneric_hashtable\\nongeneric_hashtable.csproj|solutionrelative:nongeneric_hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414C6071-9FE3-4439-BC3E-697FC305B21C}|nongenericarraylistdemo\\nongenericarraylistdemo.csproj|c:\\users\\aman anand\\source\\repos\\day9_project\\nongenericarraylistdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414C6071-9FE3-4439-BC3E-697FC305B21C}|nongenericarraylistdemo\\nongenericarraylistdemo.csproj|solutionrelative:nongenericarraylistdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B0241B-B4ED-46A3-A546-86FC82EEA7EB}|indexr\\indexr.csproj|c:\\users\\aman anand\\source\\repos\\day9_project\\indexr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B0241B-B4ED-46A3-A546-86FC82EEA7EB}|indexr\\indexr.csproj|solutionrelative:indexr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aman Anand\\source\\repos\\day9_project\\garbagecollectordemo2\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:garbagecollectordemo2\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CDFAF1-91B4-46F4-849A-B990CC22EC90}|garbagecollectordemo\\garbagecollectordemo.csproj|C:\\Users\\Aman Anand\\source\\repos\\day9_project\\garbagecollectordemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13CDFAF1-91B4-46F4-849A-B990CC22EC90}|garbagecollectordemo\\garbagecollectordemo.csproj|solutionrelative:garbagecollectordemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A360C8B-0C68-4A72-BEBB-74CBDEC06814}|isasdemo\\isasdemo.csproj|c:\\users\\aman anand\\source\\repos\\day9_project\\isasdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A360C8B-0C68-4A72-BEBB-74CBDEC06814}|isasdemo\\isasdemo.csproj|solutionrelative:isasdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\NONGENERIC_sortedlist\\Program.cs",
+              "RelativeDocumentMoniker": "NONGENERIC_sortedlist\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\NONGENERIC_sortedlist\\Program.cs",
+              "RelativeToolTip": "NONGENERIC_sortedlist\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:28:48.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\nongeneric_hashtable\\Program.cs",
+              "RelativeDocumentMoniker": "nongeneric_hashtable\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\nongeneric_hashtable\\Program.cs",
+              "RelativeToolTip": "nongeneric_hashtable\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:17:05.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\nongenericarraylistdemo\\Program.cs",
+              "RelativeDocumentMoniker": "nongenericarraylistdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\nongenericarraylistdemo\\Program.cs",
+              "RelativeToolTip": "nongenericarraylistdemo\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:08:17.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\indexr\\Program.cs",
+              "RelativeDocumentMoniker": "indexr\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\indexr\\Program.cs",
+              "RelativeToolTip": "indexr\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:05:45.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\garbagecollectordemo2\\Form1.cs",
+              "RelativeDocumentMoniker": "garbagecollectordemo2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\garbagecollectordemo2\\Form1.cs",
+              "RelativeToolTip": "garbagecollectordemo2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:58:49.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\garbagecollectordemo\\Form1.cs",
+              "RelativeDocumentMoniker": "garbagecollectordemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\garbagecollectordemo\\Form1.cs [Design]*",
+              "RelativeToolTip": "garbagecollectordemo\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:18:09.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\isasdemo\\Program.cs",
+              "RelativeDocumentMoniker": "isasdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\day9_project\\isasdemo\\Program.cs",
+              "RelativeToolTip": "isasdemo\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T05:28:42.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

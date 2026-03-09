@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day10_project\Stack_demo\bin\Debug\net8.0\Stack_demo.exe
+C:\Users\Aman Anand\source\repos\day10_project\Stack_demo\bin\Debug\net8.0\Stack_demo.deps.json
+C:\Users\Aman Anand\source\repos\day10_project\Stack_demo\bin\Debug\net8.0\Stack_demo.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day10_project\Stack_demo\bin\Debug\net8.0\Stack_demo.dll
+C:\Users\Aman Anand\source\repos\day10_project\Stack_demo\bin\Debug\net8.0\Stack_demo.pdb
+C:\Users\Aman Anand\source\repos\day10_project\Stack_demo\obj\Debug\net8.0\Stack_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day10_project\Stack_demo\obj\Debug\net8.0\Stack_demo.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day10_project\Stack_demo\obj\Debug\net8.0\Stack_demo.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day10_project\Stack_demo\obj\Debug\net8.0\Stack_demo.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day10_project\Stack_demo\obj\Debug\net8.0\Stack_demo.dll
+C:\Users\Aman Anand\source\repos\day10_project\Stack_demo\obj\Debug\net8.0\refint\Stack_demo.dll
+C:\Users\Aman Anand\source\repos\day10_project\Stack_demo\obj\Debug\net8.0\Stack_demo.pdb
+C:\Users\Aman Anand\source\repos\day10_project\Stack_demo\obj\Debug\net8.0\Stack_demo.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day10_project\Stack_demo\obj\Debug\net8.0\ref\Stack_demo.dll

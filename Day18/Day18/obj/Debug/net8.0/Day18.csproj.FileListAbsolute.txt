@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day18\Day18\bin\Debug\net8.0\Day18.exe
+C:\Users\Aman Anand\source\repos\Day18\Day18\bin\Debug\net8.0\Day18.deps.json
+C:\Users\Aman Anand\source\repos\Day18\Day18\bin\Debug\net8.0\Day18.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day18\Day18\bin\Debug\net8.0\Day18.dll
+C:\Users\Aman Anand\source\repos\Day18\Day18\bin\Debug\net8.0\Day18.pdb
+C:\Users\Aman Anand\source\repos\Day18\Day18\obj\Debug\net8.0\Day18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day18\Day18\obj\Debug\net8.0\Day18.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day18\Day18\obj\Debug\net8.0\Day18.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day18\Day18\obj\Debug\net8.0\Day18.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day18\Day18\obj\Debug\net8.0\Day18.dll
+C:\Users\Aman Anand\source\repos\Day18\Day18\obj\Debug\net8.0\refint\Day18.dll
+C:\Users\Aman Anand\source\repos\Day18\Day18\obj\Debug\net8.0\Day18.pdb
+C:\Users\Aman Anand\source\repos\Day18\Day18\obj\Debug\net8.0\Day18.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day18\Day18\obj\Debug\net8.0\ref\Day18.dll

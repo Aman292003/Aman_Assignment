@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCE5205-5E12-4FA4-A528-4A5611DAF659}|Staticfunc\\Staticfunc.csproj|c:\\users\\aman anand\\source\\repos\\day4_solution\\staticfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCE5205-5E12-4FA4-A528-4A5611DAF659}|Staticfunc\\Staticfunc.csproj|solutionrelative:staticfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125B10DD-9DFF-495D-B679-9FBDD63E69C7}|namedOptionalparameterdemo\\namedOptionalparameterdemo.csproj|c:\\users\\aman anand\\source\\repos\\day4_solution\\namedoptionalparameterdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125B10DD-9DFF-495D-B679-9FBDD63E69C7}|namedOptionalparameterdemo\\namedOptionalparameterdemo.csproj|solutionrelative:namedoptionalparameterdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125B10DD-9DFF-495D-B679-9FBDD63E69C7}|namedOptionalparameterdemo\\namedOptionalparameterdemo.csproj|c:\\users\\aman anand\\source\\repos\\day4_solution\\namedoptionalparameterdemo\\namedoptionalparameterdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{125B10DD-9DFF-495D-B679-9FBDD63E69C7}|namedOptionalparameterdemo\\namedOptionalparameterdemo.csproj|solutionrelative:namedoptionalparameterdemo\\namedoptionalparameterdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025D330A-111C-7C62-AA3A-258578D91403}|Boxing_Unboxing\\Boxing_Unboxing.csproj|c:\\users\\aman anand\\source\\repos\\day4_solution\\boxing_unboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025D330A-111C-7C62-AA3A-258578D91403}|Boxing_Unboxing\\Boxing_Unboxing.csproj|solutionrelative:boxing_unboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025D330A-111C-7C62-AA3A-258578D91403}|Boxing_Unboxing\\Boxing_Unboxing.csproj|c:\\users\\aman anand\\source\\repos\\day4_solution\\boxing_unboxing\\boxing_unboxing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{025D330A-111C-7C62-AA3A-258578D91403}|Boxing_Unboxing\\Boxing_Unboxing.csproj|solutionrelative:boxing_unboxing\\boxing_unboxing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE976F6-94A7-41C5-8216-0E11FB8C71C6}|jagged_array_demo\\jagged_array_demo.csproj|c:\\users\\aman anand\\source\\repos\\day4_solution\\jagged_array_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE976F6-94A7-41C5-8216-0E11FB8C71C6}|jagged_array_demo\\jagged_array_demo.csproj|solutionrelative:jagged_array_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22141621-879F-4195-9AA1-BF0F6223B342}|2d_array_demo\\2d_array_demo.csproj|c:\\users\\aman anand\\source\\repos\\day4_solution\\2d_array_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22141621-879F-4195-9AA1-BF0F6223B342}|2d_array_demo\\2d_array_demo.csproj|solutionrelative:2d_array_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568EF600-C8B5-429A-9EE2-53EB9C6059EB}|stringinbuiltfunc\\stringinbuiltfunc.csproj|c:\\users\\aman anand\\source\\repos\\day4_solution\\stringinbuiltfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568EF600-C8B5-429A-9EE2-53EB9C6059EB}|stringinbuiltfunc\\stringinbuiltfunc.csproj|solutionrelative:stringinbuiltfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22141621-879F-4195-9AA1-BF0F6223B342}|2d_array_demo\\2d_array_demo.csproj|c:\\users\\aman anand\\source\\repos\\day4_solution\\2d_array_demo\\2d_array_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22141621-879F-4195-9AA1-BF0F6223B342}|2d_array_demo\\2d_array_demo.csproj|solutionrelative:2d_array_demo\\2d_array_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\Staticfunc\\Program.cs",
+              "RelativeDocumentMoniker": "Staticfunc\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\Staticfunc\\Program.cs",
+              "RelativeToolTip": "Staticfunc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:05:33.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\namedOptionalparameterdemo\\Program.cs",
+              "RelativeDocumentMoniker": "namedOptionalparameterdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\namedOptionalparameterdemo\\Program.cs",
+              "RelativeToolTip": "namedOptionalparameterdemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:05:26.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "namedOptionalparameterdemo",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\namedOptionalparameterdemo\\namedOptionalparameterdemo.csproj",
+              "RelativeDocumentMoniker": "namedOptionalparameterdemo\\namedOptionalparameterdemo.csproj",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\namedOptionalparameterdemo\\namedOptionalparameterdemo.csproj",
+              "RelativeToolTip": "namedOptionalparameterdemo\\namedOptionalparameterdemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T06:05:24.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\Boxing_Unboxing\\Program.cs",
+              "RelativeDocumentMoniker": "Boxing_Unboxing\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\Boxing_Unboxing\\Program.cs",
+              "RelativeToolTip": "Boxing_Unboxing\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:03:16.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Boxing_Unboxing",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\Boxing_Unboxing\\Boxing_Unboxing.csproj",
+              "RelativeDocumentMoniker": "Boxing_Unboxing\\Boxing_Unboxing.csproj",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\Boxing_Unboxing\\Boxing_Unboxing.csproj",
+              "RelativeToolTip": "Boxing_Unboxing\\Boxing_Unboxing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T06:03:13.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\jagged_array_demo\\Program.cs",
+              "RelativeDocumentMoniker": "jagged_array_demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\jagged_array_demo\\Program.cs",
+              "RelativeToolTip": "jagged_array_demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:41:14.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "2d_array_demo.csproj",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\2d_array_demo\\2d_array_demo.csproj",
+              "RelativeDocumentMoniker": "2d_array_demo\\2d_array_demo.csproj",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\2d_array_demo\\2d_array_demo.csproj",
+              "RelativeToolTip": "2d_array_demo\\2d_array_demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-09T10:04:24.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\stringinbuiltfunc\\Program.cs",
+              "RelativeDocumentMoniker": "stringinbuiltfunc\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\stringinbuiltfunc\\Program.cs",
+              "RelativeToolTip": "stringinbuiltfunc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T09:07:18.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\2d_array_demo\\Program.cs",
+              "RelativeDocumentMoniker": "2d_array_demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day4_solution\\2d_array_demo\\Program.cs",
+              "RelativeToolTip": "2d_array_demo\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:38:37.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

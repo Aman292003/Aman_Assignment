@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="2d_array_demo/2d_array_demo.csproj" Id="22141621-879f-4195-9aa1-bf0f6223b342" />
+  <Project Path="Array/Array.csproj" Id="7ced6a23-3914-4757-968b-f3f4ae8ab421" />
+  <Project Path="Boxing_Unboxing/Boxing_Unboxing.csproj" />
+  <Project Path="jagged_array_demo/jagged_array_demo.csproj" Id="2ae976f6-94a7-41c5-8216-0e11fb8c71c6" />
+  <Project Path="namedOptionalparameterdemo/namedOptionalparameterdemo.csproj" Id="125b10dd-9dff-495d-b679-9fbdd63e69c7" />
+  <Project Path="Staticfunc/Staticfunc.csproj" Id="ebce5205-5e12-4fa4-a528-4a5611daf659" />
+  <Project Path="Staticvariable_demo/Staticvariable_demo.csproj" Id="8355d445-b51f-42fc-8b76-c645ce7a1f6d" />
+  <Project Path="stringinbuiltfunc/stringinbuiltfunc.csproj" Id="568ef600-c8b5-429a-9ee2-53eb9c6059eb" />
+  <Project Path="var_dynamic_demo/var_dynamic_demo.csproj" />
+</Solution>

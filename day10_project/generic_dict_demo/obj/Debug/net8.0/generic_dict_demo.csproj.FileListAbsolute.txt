@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day10_project\generic_dict_demo\bin\Debug\net8.0\generic_dict_demo.exe
+C:\Users\Aman Anand\source\repos\day10_project\generic_dict_demo\bin\Debug\net8.0\generic_dict_demo.deps.json
+C:\Users\Aman Anand\source\repos\day10_project\generic_dict_demo\bin\Debug\net8.0\generic_dict_demo.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day10_project\generic_dict_demo\bin\Debug\net8.0\generic_dict_demo.dll
+C:\Users\Aman Anand\source\repos\day10_project\generic_dict_demo\bin\Debug\net8.0\generic_dict_demo.pdb
+C:\Users\Aman Anand\source\repos\day10_project\generic_dict_demo\obj\Debug\net8.0\generic_dict_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day10_project\generic_dict_demo\obj\Debug\net8.0\generic_dict_demo.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day10_project\generic_dict_demo\obj\Debug\net8.0\generic_dict_demo.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day10_project\generic_dict_demo\obj\Debug\net8.0\generic_dict_demo.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day10_project\generic_dict_demo\obj\Debug\net8.0\generic_dict_demo.dll
+C:\Users\Aman Anand\source\repos\day10_project\generic_dict_demo\obj\Debug\net8.0\refint\generic_dict_demo.dll
+C:\Users\Aman Anand\source\repos\day10_project\generic_dict_demo\obj\Debug\net8.0\generic_dict_demo.pdb
+C:\Users\Aman Anand\source\repos\day10_project\generic_dict_demo\obj\Debug\net8.0\generic_dict_demo.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day10_project\generic_dict_demo\obj\Debug\net8.0\ref\generic_dict_demo.dll

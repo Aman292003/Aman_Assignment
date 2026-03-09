@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="sample.txt" />
+  </Folder>
+  <Project Path="FileHandling_form/FileHandling_form.csproj" />
+  <Project Path="File_handling/File_handling.csproj" />
+  <Project Path="logging demo/logging demo.csproj" Id="f3cb7c6c-a8d3-40a6-bac8-8619e8486216" />
+</Solution>

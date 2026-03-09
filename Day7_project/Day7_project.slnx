@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Abstract_class/Abstract_class.csproj" />
+  <Project Path="functionoverloading/functionoverloading.csproj" />
+  <Project Path="Inheritence_demo/Inheritence_demo.csproj" />
+  <Project Path="operatoroverloading/operatoroverloading.csproj" />
+  <Project Path="Virtualfunc/Virtualfunc.csproj" />
+</Solution>

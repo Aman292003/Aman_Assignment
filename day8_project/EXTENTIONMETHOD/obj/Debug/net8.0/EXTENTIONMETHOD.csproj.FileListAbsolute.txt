@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day8_project\EXTENTIONMETHOD\bin\Debug\net8.0\EXTENTIONMETHOD.exe
+C:\Users\Aman Anand\source\repos\day8_project\EXTENTIONMETHOD\bin\Debug\net8.0\EXTENTIONMETHOD.deps.json
+C:\Users\Aman Anand\source\repos\day8_project\EXTENTIONMETHOD\bin\Debug\net8.0\EXTENTIONMETHOD.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day8_project\EXTENTIONMETHOD\bin\Debug\net8.0\EXTENTIONMETHOD.dll
+C:\Users\Aman Anand\source\repos\day8_project\EXTENTIONMETHOD\bin\Debug\net8.0\EXTENTIONMETHOD.pdb
+C:\Users\Aman Anand\source\repos\day8_project\EXTENTIONMETHOD\obj\Debug\net8.0\EXTENTIONMETHOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day8_project\EXTENTIONMETHOD\obj\Debug\net8.0\EXTENTIONMETHOD.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day8_project\EXTENTIONMETHOD\obj\Debug\net8.0\EXTENTIONMETHOD.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day8_project\EXTENTIONMETHOD\obj\Debug\net8.0\EXTENTIONMETHOD.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day8_project\EXTENTIONMETHOD\obj\Debug\net8.0\EXTENTIONMETHOD.dll
+C:\Users\Aman Anand\source\repos\day8_project\EXTENTIONMETHOD\obj\Debug\net8.0\refint\EXTENTIONMETHOD.dll
+C:\Users\Aman Anand\source\repos\day8_project\EXTENTIONMETHOD\obj\Debug\net8.0\EXTENTIONMETHOD.pdb
+C:\Users\Aman Anand\source\repos\day8_project\EXTENTIONMETHOD\obj\Debug\net8.0\EXTENTIONMETHOD.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day8_project\EXTENTIONMETHOD\obj\Debug\net8.0\ref\EXTENTIONMETHOD.dll

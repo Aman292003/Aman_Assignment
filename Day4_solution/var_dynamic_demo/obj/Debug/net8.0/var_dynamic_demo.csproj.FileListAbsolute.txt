@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day4_solution\var_dynamic_demo\bin\Debug\net8.0\var_dynamic_demo.exe
+C:\Users\Aman Anand\source\repos\Day4_solution\var_dynamic_demo\bin\Debug\net8.0\var_dynamic_demo.deps.json
+C:\Users\Aman Anand\source\repos\Day4_solution\var_dynamic_demo\bin\Debug\net8.0\var_dynamic_demo.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day4_solution\var_dynamic_demo\bin\Debug\net8.0\var_dynamic_demo.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\var_dynamic_demo\bin\Debug\net8.0\var_dynamic_demo.pdb
+C:\Users\Aman Anand\source\repos\Day4_solution\var_dynamic_demo\obj\Debug\net8.0\var_dynamic_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day4_solution\var_dynamic_demo\obj\Debug\net8.0\var_dynamic_demo.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\var_dynamic_demo\obj\Debug\net8.0\var_dynamic_demo.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day4_solution\var_dynamic_demo\obj\Debug\net8.0\var_dynamic_demo.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\var_dynamic_demo\obj\Debug\net8.0\var_dynamic_demo.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\var_dynamic_demo\obj\Debug\net8.0\refint\var_dynamic_demo.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\var_dynamic_demo\obj\Debug\net8.0\var_dynamic_demo.pdb
+C:\Users\Aman Anand\source\repos\Day4_solution\var_dynamic_demo\obj\Debug\net8.0\var_dynamic_demo.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\var_dynamic_demo\obj\Debug\net8.0\ref\var_dynamic_demo.dll

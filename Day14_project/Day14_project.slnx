@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConsoleApp1/Struct_class.csproj" />
+  <Project Path="Instance_reference_variable/Instance_reference_variable.csproj" />
+  <Project Path="Linktocustomer/Linktocustomer.csproj" />
+  <Project Path="Linq_to_empobject/Linq_to_empobject.csproj" />
+</Solution>

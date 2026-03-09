@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day4_solution\2d_array_demo\bin\Debug\net8.0\2d_array_demo.exe
+C:\Users\Aman Anand\source\repos\Day4_solution\2d_array_demo\bin\Debug\net8.0\2d_array_demo.deps.json
+C:\Users\Aman Anand\source\repos\Day4_solution\2d_array_demo\bin\Debug\net8.0\2d_array_demo.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day4_solution\2d_array_demo\bin\Debug\net8.0\2d_array_demo.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\2d_array_demo\bin\Debug\net8.0\2d_array_demo.pdb
+C:\Users\Aman Anand\source\repos\Day4_solution\2d_array_demo\obj\Debug\net8.0\2d_array_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day4_solution\2d_array_demo\obj\Debug\net8.0\2d_array_demo.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\2d_array_demo\obj\Debug\net8.0\2d_array_demo.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day4_solution\2d_array_demo\obj\Debug\net8.0\2d_array_demo.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\2d_array_demo\obj\Debug\net8.0\2d_array_demo.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\2d_array_demo\obj\Debug\net8.0\refint\2d_array_demo.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\2d_array_demo\obj\Debug\net8.0\2d_array_demo.pdb
+C:\Users\Aman Anand\source\repos\Day4_solution\2d_array_demo\obj\Debug\net8.0\2d_array_demo.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\2d_array_demo\obj\Debug\net8.0\ref\2d_array_demo.dll

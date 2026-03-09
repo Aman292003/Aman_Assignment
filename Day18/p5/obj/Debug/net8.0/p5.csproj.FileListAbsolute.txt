@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day18\p5\bin\Debug\net8.0\p5.exe
+C:\Users\Aman Anand\source\repos\Day18\p5\bin\Debug\net8.0\p5.deps.json
+C:\Users\Aman Anand\source\repos\Day18\p5\bin\Debug\net8.0\p5.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day18\p5\bin\Debug\net8.0\p5.dll
+C:\Users\Aman Anand\source\repos\Day18\p5\bin\Debug\net8.0\p5.pdb
+C:\Users\Aman Anand\source\repos\Day18\p5\obj\Debug\net8.0\p5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day18\p5\obj\Debug\net8.0\p5.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day18\p5\obj\Debug\net8.0\p5.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day18\p5\obj\Debug\net8.0\p5.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day18\p5\obj\Debug\net8.0\p5.dll
+C:\Users\Aman Anand\source\repos\Day18\p5\obj\Debug\net8.0\refint\p5.dll
+C:\Users\Aman Anand\source\repos\Day18\p5\obj\Debug\net8.0\p5.pdb
+C:\Users\Aman Anand\source\repos\Day18\p5\obj\Debug\net8.0\p5.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day18\p5\obj\Debug\net8.0\ref\p5.dll

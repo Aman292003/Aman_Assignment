@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aman Anand\\source\\repos\\day3_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1F6A05-03E2-FB89-7CD4-EB764B12AA9A}|Middleware_demo\\Middleware_demo.csproj|c:\\users\\aman anand\\source\\repos\\day3_project\\middleware_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1F6A05-03E2-FB89-7CD4-EB764B12AA9A}|Middleware_demo\\Middleware_demo.csproj|solutionrelative:middleware_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDDF23A-45F3-9898-5120-8547233B866C}|call_by_value _ref\\call_by_value _ref.csproj|c:\\users\\aman anand\\source\\repos\\day3_project\\call_by_value _ref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EDDF23A-45F3-9898-5120-8547233B866C}|call_by_value _ref\\call_by_value _ref.csproj|solutionrelative:call_by_value _ref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8CDE65-CDDD-476B-0529-E9A19B8DB7F9}|ConsoleDemo\\ConsoleDemo.csproj|c:\\users\\aman anand\\source\\repos\\day3_project\\consoledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8CDE65-CDDD-476B-0529-E9A19B8DB7F9}|ConsoleDemo\\ConsoleDemo.csproj|solutionrelative:consoledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD51722-CA36-6481-5057-C71C44468B2A}|ref_out\\ref_out.csproj|c:\\users\\aman anand\\source\\repos\\day3_project\\ref_out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD51722-CA36-6481-5057-C71C44468B2A}|ref_out\\ref_out.csproj|solutionrelative:ref_out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B3B8C-71DE-B6FE-2F4E-9E4B2F7976D5}|Cube_find\\Cube_find.csproj|c:\\users\\aman anand\\source\\repos\\day3_project\\cube_find\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B3B8C-71DE-B6FE-2F4E-9E4B2F7976D5}|Cube_find\\Cube_find.csproj|solutionrelative:cube_find\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\day3_project\\ref_out\\Program.cs",
+              "RelativeDocumentMoniker": "ref_out\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\day3_project\\ref_out\\Program.cs",
+              "RelativeToolTip": "ref_out\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:19:47.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\day3_project\\Cube_find\\Class1.cs",
+              "RelativeDocumentMoniker": "Cube_find\\Class1.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\day3_project\\Cube_find\\Class1.cs",
+              "RelativeToolTip": "Cube_find\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:19:23.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\day3_project\\ConsoleDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\day3_project\\ConsoleDemo\\Program.cs",
+              "RelativeToolTip": "ConsoleDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:19:05.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\day3_project\\call_by_value _ref\\Program.cs",
+              "RelativeDocumentMoniker": "call_by_value _ref\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\day3_project\\call_by_value _ref\\Program.cs",
+              "RelativeToolTip": "call_by_value _ref\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:16:34.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\day3_project\\Middleware_demo\\Program.cs",
+              "RelativeDocumentMoniker": "Middleware_demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\day3_project\\Middleware_demo\\Program.cs",
+              "RelativeToolTip": "Middleware_demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:21:45.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

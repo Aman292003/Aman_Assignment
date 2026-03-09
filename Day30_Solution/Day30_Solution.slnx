@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Arthematicopsandanaother/Arthematicopsandanaother.csproj" />
+  <Project Path="MockTest/MockTest.csproj" Id="6c590f6f-de29-4933-96d0-40e104e36165" />
+  <Project Path="NunitTest/NunitTest.csproj" />
+  <Project Path="TDD/TDD.csproj" Id="f5735167-fffa-40bd-b677-c5629bf9ed05" />
+  <Project Path="XunitTest/XunitTest.csproj" />
+</Solution>

@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day33_sol\Navproperties\bin\Debug\net8.0\Navproperties.exe
+C:\Users\Aman Anand\source\repos\Day33_sol\Navproperties\bin\Debug\net8.0\Navproperties.deps.json
+C:\Users\Aman Anand\source\repos\Day33_sol\Navproperties\bin\Debug\net8.0\Navproperties.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day33_sol\Navproperties\bin\Debug\net8.0\Navproperties.dll
+C:\Users\Aman Anand\source\repos\Day33_sol\Navproperties\bin\Debug\net8.0\Navproperties.pdb
+C:\Users\Aman Anand\source\repos\Day33_sol\Navproperties\obj\Debug\net8.0\Navproperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day33_sol\Navproperties\obj\Debug\net8.0\Navproperties.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day33_sol\Navproperties\obj\Debug\net8.0\Navproperties.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day33_sol\Navproperties\obj\Debug\net8.0\Navproperties.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day33_sol\Navproperties\obj\Debug\net8.0\Navproperties.dll
+C:\Users\Aman Anand\source\repos\Day33_sol\Navproperties\obj\Debug\net8.0\refint\Navproperties.dll
+C:\Users\Aman Anand\source\repos\Day33_sol\Navproperties\obj\Debug\net8.0\Navproperties.pdb
+C:\Users\Aman Anand\source\repos\Day33_sol\Navproperties\obj\Debug\net8.0\Navproperties.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day33_sol\Navproperties\obj\Debug\net8.0\ref\Navproperties.dll

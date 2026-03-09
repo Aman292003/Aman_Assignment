@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day16_Sol\RecordDemo\bin\Debug\net8.0\RecordDemo.exe
+C:\Users\Aman Anand\source\repos\Day16_Sol\RecordDemo\bin\Debug\net8.0\RecordDemo.deps.json
+C:\Users\Aman Anand\source\repos\Day16_Sol\RecordDemo\bin\Debug\net8.0\RecordDemo.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day16_Sol\RecordDemo\bin\Debug\net8.0\RecordDemo.dll
+C:\Users\Aman Anand\source\repos\Day16_Sol\RecordDemo\bin\Debug\net8.0\RecordDemo.pdb
+C:\Users\Aman Anand\source\repos\Day16_Sol\RecordDemo\obj\Debug\net8.0\RecordDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day16_Sol\RecordDemo\obj\Debug\net8.0\RecordDemo.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day16_Sol\RecordDemo\obj\Debug\net8.0\RecordDemo.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day16_Sol\RecordDemo\obj\Debug\net8.0\RecordDemo.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day16_Sol\RecordDemo\obj\Debug\net8.0\RecordDemo.dll
+C:\Users\Aman Anand\source\repos\Day16_Sol\RecordDemo\obj\Debug\net8.0\refint\RecordDemo.dll
+C:\Users\Aman Anand\source\repos\Day16_Sol\RecordDemo\obj\Debug\net8.0\RecordDemo.pdb
+C:\Users\Aman Anand\source\repos\Day16_Sol\RecordDemo\obj\Debug\net8.0\RecordDemo.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day16_Sol\RecordDemo\obj\Debug\net8.0\ref\RecordDemo.dll

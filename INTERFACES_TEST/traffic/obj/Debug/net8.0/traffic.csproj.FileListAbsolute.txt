@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\traffic\bin\Debug\net8.0\traffic.exe
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\traffic\bin\Debug\net8.0\traffic.deps.json
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\traffic\bin\Debug\net8.0\traffic.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\traffic\bin\Debug\net8.0\traffic.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\traffic\bin\Debug\net8.0\traffic.pdb
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\traffic\obj\Debug\net8.0\traffic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\traffic\obj\Debug\net8.0\traffic.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\traffic\obj\Debug\net8.0\traffic.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\traffic\obj\Debug\net8.0\traffic.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\traffic\obj\Debug\net8.0\traffic.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\traffic\obj\Debug\net8.0\refint\traffic.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\traffic\obj\Debug\net8.0\traffic.pdb
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\traffic\obj\Debug\net8.0\traffic.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\traffic\obj\Debug\net8.0\ref\traffic.dll

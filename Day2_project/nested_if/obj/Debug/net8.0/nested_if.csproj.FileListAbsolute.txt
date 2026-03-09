@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day2_project\nested_if\obj\Debug\net8.0\nested_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day2_project\nested_if\obj\Debug\net8.0\nested_if.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day2_project\nested_if\obj\Debug\net8.0\nested_if.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day2_project\nested_if\obj\Debug\net8.0\nested_if.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day2_project\nested_if\bin\Debug\net8.0\nested_if.exe
+C:\Users\Aman Anand\source\repos\Day2_project\nested_if\bin\Debug\net8.0\nested_if.deps.json
+C:\Users\Aman Anand\source\repos\Day2_project\nested_if\bin\Debug\net8.0\nested_if.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day2_project\nested_if\bin\Debug\net8.0\nested_if.dll
+C:\Users\Aman Anand\source\repos\Day2_project\nested_if\bin\Debug\net8.0\nested_if.pdb
+C:\Users\Aman Anand\source\repos\Day2_project\nested_if\obj\Debug\net8.0\nested_if.dll
+C:\Users\Aman Anand\source\repos\Day2_project\nested_if\obj\Debug\net8.0\refint\nested_if.dll
+C:\Users\Aman Anand\source\repos\Day2_project\nested_if\obj\Debug\net8.0\nested_if.pdb
+C:\Users\Aman Anand\source\repos\Day2_project\nested_if\obj\Debug\net8.0\nested_if.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day2_project\nested_if\obj\Debug\net8.0\ref\nested_if.dll

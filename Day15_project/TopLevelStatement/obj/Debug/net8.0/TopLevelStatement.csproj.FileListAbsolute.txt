@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day15_project\TopLevelStatement\bin\Debug\net8.0\TopLevelStatement.exe
+C:\Users\Aman Anand\source\repos\Day15_project\TopLevelStatement\bin\Debug\net8.0\TopLevelStatement.deps.json
+C:\Users\Aman Anand\source\repos\Day15_project\TopLevelStatement\bin\Debug\net8.0\TopLevelStatement.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day15_project\TopLevelStatement\bin\Debug\net8.0\TopLevelStatement.dll
+C:\Users\Aman Anand\source\repos\Day15_project\TopLevelStatement\bin\Debug\net8.0\TopLevelStatement.pdb
+C:\Users\Aman Anand\source\repos\Day15_project\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day15_project\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day15_project\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day15_project\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day15_project\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.dll
+C:\Users\Aman Anand\source\repos\Day15_project\TopLevelStatement\obj\Debug\net8.0\refint\TopLevelStatement.dll
+C:\Users\Aman Anand\source\repos\Day15_project\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.pdb
+C:\Users\Aman Anand\source\repos\Day15_project\TopLevelStatement\obj\Debug\net8.0\TopLevelStatement.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day15_project\TopLevelStatement\obj\Debug\net8.0\ref\TopLevelStatement.dll

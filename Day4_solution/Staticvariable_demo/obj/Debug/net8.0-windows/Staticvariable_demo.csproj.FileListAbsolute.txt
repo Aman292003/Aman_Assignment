@@ -1,0 +1,16 @@
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\bin\Debug\net8.0-windows\Staticvariable_demo.exe
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\bin\Debug\net8.0-windows\Staticvariable_demo.deps.json
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\bin\Debug\net8.0-windows\Staticvariable_demo.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\bin\Debug\net8.0-windows\Staticvariable_demo.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\bin\Debug\net8.0-windows\Staticvariable_demo.pdb
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\obj\Debug\net8.0-windows\Staticvariable_demo.Form1.resources
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\obj\Debug\net8.0-windows\Staticvariable_demo.csproj.GenerateResource.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\obj\Debug\net8.0-windows\Staticvariable_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\obj\Debug\net8.0-windows\Staticvariable_demo.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\obj\Debug\net8.0-windows\Staticvariable_demo.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\obj\Debug\net8.0-windows\Staticvariable_demo.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\obj\Debug\net8.0-windows\Staticvariable_demo.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\obj\Debug\net8.0-windows\refint\Staticvariable_demo.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\obj\Debug\net8.0-windows\Staticvariable_demo.pdb
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\obj\Debug\net8.0-windows\Staticvariable_demo.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\Staticvariable_demo\obj\Debug\net8.0-windows\ref\Staticvariable_demo.dll

@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day9_project\indexr\bin\Debug\net8.0\indexr.exe
+C:\Users\Aman Anand\source\repos\day9_project\indexr\bin\Debug\net8.0\indexr.deps.json
+C:\Users\Aman Anand\source\repos\day9_project\indexr\bin\Debug\net8.0\indexr.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day9_project\indexr\bin\Debug\net8.0\indexr.dll
+C:\Users\Aman Anand\source\repos\day9_project\indexr\bin\Debug\net8.0\indexr.pdb
+C:\Users\Aman Anand\source\repos\day9_project\indexr\obj\Debug\net8.0\indexr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day9_project\indexr\obj\Debug\net8.0\indexr.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day9_project\indexr\obj\Debug\net8.0\indexr.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day9_project\indexr\obj\Debug\net8.0\indexr.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day9_project\indexr\obj\Debug\net8.0\indexr.dll
+C:\Users\Aman Anand\source\repos\day9_project\indexr\obj\Debug\net8.0\refint\indexr.dll
+C:\Users\Aman Anand\source\repos\day9_project\indexr\obj\Debug\net8.0\indexr.pdb
+C:\Users\Aman Anand\source\repos\day9_project\indexr\obj\Debug\net8.0\indexr.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day9_project\indexr\obj\Debug\net8.0\ref\indexr.dll

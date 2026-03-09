@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day32_Sol\EMURABLEDEMO\bin\Debug\net8.0\EMURABLEDEMO.exe
+C:\Users\Aman Anand\source\repos\Day32_Sol\EMURABLEDEMO\bin\Debug\net8.0\EMURABLEDEMO.deps.json
+C:\Users\Aman Anand\source\repos\Day32_Sol\EMURABLEDEMO\bin\Debug\net8.0\EMURABLEDEMO.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day32_Sol\EMURABLEDEMO\bin\Debug\net8.0\EMURABLEDEMO.dll
+C:\Users\Aman Anand\source\repos\Day32_Sol\EMURABLEDEMO\bin\Debug\net8.0\EMURABLEDEMO.pdb
+C:\Users\Aman Anand\source\repos\Day32_Sol\EMURABLEDEMO\obj\Debug\net8.0\EMURABLEDEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day32_Sol\EMURABLEDEMO\obj\Debug\net8.0\EMURABLEDEMO.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day32_Sol\EMURABLEDEMO\obj\Debug\net8.0\EMURABLEDEMO.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day32_Sol\EMURABLEDEMO\obj\Debug\net8.0\EMURABLEDEMO.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day32_Sol\EMURABLEDEMO\obj\Debug\net8.0\EMURABLEDEMO.dll
+C:\Users\Aman Anand\source\repos\Day32_Sol\EMURABLEDEMO\obj\Debug\net8.0\refint\EMURABLEDEMO.dll
+C:\Users\Aman Anand\source\repos\Day32_Sol\EMURABLEDEMO\obj\Debug\net8.0\EMURABLEDEMO.pdb
+C:\Users\Aman Anand\source\repos\Day32_Sol\EMURABLEDEMO\obj\Debug\net8.0\EMURABLEDEMO.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day32_Sol\EMURABLEDEMO\obj\Debug\net8.0\ref\EMURABLEDEMO.dll

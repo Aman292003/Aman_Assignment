@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="EFDBDEMO/EFDBDEMO.csproj" />
+  <Project Path="INTERFACES/INTERFACES.csproj" Id="f87bd28d-d4b8-48a7-ae72-ac744ee2bc0e" />
+</Solution>

@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="../lambdausingdelegates/lambdausingdelegates.csproj" />
+  <Project Path="Anonomiususingdelegats/Anonomiususingdelegats.csproj" />
+  <Project Path="Constructordemo/Constructordemo.csproj" />
+  <Project Path="Delegates/Delegates.csproj" />
+  <Project Path="enumdemo/enumdemo.csproj" Id="8f7ff2f8-a04a-4c19-8cdf-60c683267d47" />
+  <Project Path="Eventdemodelegateconsole/Eventdemodelegateconsole.csproj" />
+  <Project Path="EXTENTIONMETHOD/EXTENTIONMETHOD.csproj" Id="c691760d-2988-4580-9ab4-5eefdbe40977" />
+  <Project Path="generic_method/generic_method.csproj" />
+  <Project Path="getandsetdemo/getandsetdemo.csproj" Id="f57a2433-0511-4082-af45-e6d803e1bd1b" />
+  <Project Path="INBUILTDELEGATION/INBUILTDELEGATION.csproj" />
+</Solution>
