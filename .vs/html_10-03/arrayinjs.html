@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Var Let Const Example</title>
+</head>
+
+<body>
+
+<script>
+
+// difference between var, let and const
+
+// var example
+var kk = "hai";
+kk = "hi"; // can reassign
+{
+    var kk = "hello"; // var is function scoped
+}
+console.log("var value:", kk);
+
+
+// let example
+let kk1 = "hai";
+kk1 = "hi"; // can reassign
+{
+    let kk1 = "hello"; // block scope
+    console.log("inside block let:", kk1);
+}
+console.log("outside block let:", kk1);
+
+
+// const example
+const kk2 = "hi";
+// kk2 = "hello";  // ❌ not allowed (cannot reassign)
+
+console.log("const value:", kk2);
+
+</script>
+
+</body>
+</html>
