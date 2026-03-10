@@ -1,42 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <title>Var Let Const Example</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 
 <body>
+    <p id="demo" style="background:rgb(177, 113, 35);width:90%;height:100px;
+                    font-size:large;font-weight:900px ;">
 
-<script>
+    </p>
+    <script>
+        //difference between var,let and const 
+        var kk = "hai";
+        kk = "hi"// can reassign
+        {
+            var kk = "hello";
+        }
+        console.log(kk);
 
-// difference between var, let and const
+        let kk1 = "hai";
+        kk1 = "hi"// can reassign
+        {
+            let kk1 = "hello"
+        }
+        console.log(kk1);
 
-// var example
-var kk = "hai";
-kk = "hi"; // can reassign
-{
-    var kk = "hello"; // var is function scoped
-}
-console.log("var value:", kk);
+        const kk2 = "hai";
+        // kk2 = "hi";// u cannot assign here const value in run time it will give error 
+        console.log(kk2);
 
+        let cars = ["BMW", "Hyndai", "TATA", "Skoda"];
 
-// let example
-let kk1 = "hai";
-kk1 = "hi"; // can reassign
-{
-    let kk1 = "hello"; // block scope
-    console.log("inside block let:", kk1);
-}
-console.log("outside block let:", kk1);
+        document.getElementById("demo").innerHTML = cars;
 
+        // first car 
 
-// const example
-const kk2 = "hi";
-// kk2 = "hello";  // ❌ not allowed (cannot reassign)
+        let firstcar = cars[0];
 
-console.log("const value:", kk2);
+        document.getElementById("demo").innerHTML = firstcar;
+        
+        //no elements in array
 
-</script>
+        let length=cars.length;
 
+       document.getElementById("demo").innerHTML =length;
+
+       // last car
+
+       let lastcar=cars[cars.length-1]
+
+       document.getElementById("demo").innerHTML = lastcar;
+        
+       //loop over the array and put it i p tag 
+
+        var str = "";
+            for (var i = 0; i < cars.length; i++) {
+                str = str + (i + 1) + ":" + cars[i] + "<br/>";
+            }
+            document.getElementById("demo").innerHTML = str;
+
+            cars.forEach((item,index,array)=>{console.log(index+1)+"----->"+item});
+
+        // removing last car 
+
+        let lastcar1=cars.pop();
+
+    document.getElementById("demo").innerHTML = lastcar1;
+
+    // adding at the last 
+
+    let lastcar2=cars.push("AUDI");
+
+    document.getElementById("demo").innerHTML = cars;
+    </script>
 </body>
+
 </html>
