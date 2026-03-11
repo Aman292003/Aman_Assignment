@@ -1,0 +1,7 @@
+C:\Users\Aman Anand\source\repos\11_march\mvcdemo\wwwroot\Image\arrow.png
+C:\Users\Aman Anand\source\repos\11_march\mvcdemo\wwwroot\Image\cap.jpg
+C:\Users\Aman Anand\source\repos\11_march\mvcdemo\wwwroot\Image\footer.gif
+C:\Users\Aman Anand\source\repos\11_march\mvcdemo\wwwroot\Image\header.jpg
+C:\Users\Aman Anand\source\repos\11_march\mvcdemo\wwwroot\Image\li.png
+C:\Users\Aman Anand\source\repos\11_march\mvcdemo\wwwroot\Image\star.png
+C:\Users\Aman Anand\source\repos\11_march\mvcdemo\wwwroot\Image\tom.jpg
