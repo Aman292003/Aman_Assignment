@@ -1,0 +1,26 @@
+﻿@model IEnumerable<mvcdemo.Models.Department>
+
+@{
+    ViewData["Title"] = "collectionofdept";
+}
+
+<h1>collectionofdept</h1>
+
+<table cellpadding="3" cellspacing="2" border="2">
+    <tr>
+        <th>Dept Id</th>
+        <th>DeptName</th>
+        <th>Link</th>
+    </tr>
+
+    @foreach (var dept in Model)
+    {
+        <tr>
+            <td>@dept.DeptId</td>
+            <td>@dept.DeptName</td>
+            <td>
+                <a href="/Home/empindept?deptid=@dept.DeptId">Employees</a>
+            </td>
+        </tr>
+    }
+</table>
