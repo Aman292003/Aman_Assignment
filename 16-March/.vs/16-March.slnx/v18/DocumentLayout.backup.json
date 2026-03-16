@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aman Anand\\source\\repos\\16-March\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB07A68-7AEC-499F-A6E0-F99DDCB9D825}|UniversityCourseApp\\UniversityCourseApp.csproj|c:\\users\\aman anand\\source\\repos\\16-march\\universitycourseapp\\views\\enrollment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCB07A68-7AEC-499F-A6E0-F99DDCB9D825}|UniversityCourseApp\\UniversityCourseApp.csproj|solutionrelative:universitycourseapp\\views\\enrollment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB07A68-7AEC-499F-A6E0-F99DDCB9D825}|UniversityCourseApp\\UniversityCourseApp.csproj|c:\\users\\aman anand\\source\\repos\\16-march\\universitycourseapp\\views\\enrollment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCB07A68-7AEC-499F-A6E0-F99DDCB9D825}|UniversityCourseApp\\UniversityCourseApp.csproj|solutionrelative:universitycourseapp\\views\\enrollment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB07A68-7AEC-499F-A6E0-F99DDCB9D825}|UniversityCourseApp\\UniversityCourseApp.csproj|c:\\users\\aman anand\\source\\repos\\16-march\\universitycourseapp\\models\\studentviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB07A68-7AEC-499F-A6E0-F99DDCB9D825}|UniversityCourseApp\\UniversityCourseApp.csproj|solutionrelative:universitycourseapp\\models\\studentviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB07A68-7AEC-499F-A6E0-F99DDCB9D825}|UniversityCourseApp\\UniversityCourseApp.csproj|c:\\users\\aman anand\\source\\repos\\16-march\\universitycourseapp\\models\\universitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB07A68-7AEC-499F-A6E0-F99DDCB9D825}|UniversityCourseApp\\UniversityCourseApp.csproj|solutionrelative:universitycourseapp\\models\\universitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB07A68-7AEC-499F-A6E0-F99DDCB9D825}|UniversityCourseApp\\UniversityCourseApp.csproj|c:\\users\\aman anand\\source\\repos\\16-march\\universitycourseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB07A68-7AEC-499F-A6E0-F99DDCB9D825}|UniversityCourseApp\\UniversityCourseApp.csproj|solutionrelative:universitycourseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB07A68-7AEC-499F-A6E0-F99DDCB9D825}|UniversityCourseApp\\UniversityCourseApp.csproj|c:\\users\\aman anand\\source\\repos\\16-march\\universitycourseapp\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB07A68-7AEC-499F-A6E0-F99DDCB9D825}|UniversityCourseApp\\UniversityCourseApp.csproj|solutionrelative:universitycourseapp\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\16-March\\UniversityCourseApp\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityCourseApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\16-March\\UniversityCourseApp\\Program.cs*",
+              "RelativeToolTip": "UniversityCourseApp\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:26:18.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\16-March\\UniversityCourseApp\\Views\\Enrollment\\Details.cshtml",
+              "RelativeDocumentMoniker": "UniversityCourseApp\\Views\\Enrollment\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\16-March\\UniversityCourseApp\\Views\\Enrollment\\Details.cshtml",
+              "RelativeToolTip": "UniversityCourseApp\\Views\\Enrollment\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T10:23:16.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\16-March\\UniversityCourseApp\\Views\\Enrollment\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniversityCourseApp\\Views\\Enrollment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\16-March\\UniversityCourseApp\\Views\\Enrollment\\Index.cshtml",
+              "RelativeToolTip": "UniversityCourseApp\\Views\\Enrollment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T10:22:14.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\16-March\\UniversityCourseApp\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "UniversityCourseApp\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\16-March\\UniversityCourseApp\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "UniversityCourseApp\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwE0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:19:25.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\16-March\\UniversityCourseApp\\Models\\StudentViewModels.cs",
+              "RelativeDocumentMoniker": "UniversityCourseApp\\Models\\StudentViewModels.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\16-March\\UniversityCourseApp\\Models\\StudentViewModels.cs",
+              "RelativeToolTip": "UniversityCourseApp\\Models\\StudentViewModels.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:20:50.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniversityModels.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\16-March\\UniversityCourseApp\\Models\\UniversityModels.cs",
+              "RelativeDocumentMoniker": "UniversityCourseApp\\Models\\UniversityModels.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\16-March\\UniversityCourseApp\\Models\\UniversityModels.cs",
+              "RelativeToolTip": "UniversityCourseApp\\Models\\UniversityModels.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:20:27.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

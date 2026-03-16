@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="mvcefdemo/mvcefdemo.csproj" />
+  <Project Path="UniversityCourseApp/UniversityCourseApp.csproj" Id="ccb07a68-7aec-499f-a6e0-f99ddcb9d825" />
+</Solution>
