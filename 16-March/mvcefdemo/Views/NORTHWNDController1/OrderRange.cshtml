@@ -1,0 +1,49 @@
+﻿@model IEnumerable<mvcefdemo.Models.Customer>
+
+@{
+    ViewData["Title"] = "OrderRange";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center mb-5 text-primary fw-bold">Customers with Orders Above a Range</h1>
+
+    <!-- Search Form -->
+    <div class="row justify-content-center mb-5">
+        <div class="col-md-4">
+            <form action="/NORTHWNDController1/OrderRange" method="get" class="d-flex">
+                <input type="number" name="range" class="form-control me-2" placeholder="Enter minimum orders" />
+                <button type="submit" class="btn btn-success">Search</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Display Customers -->
+    @if (Model != null && Model.Any())
+    {
+        <div class="table-responsive">
+            <table class="table table-bordered table-striped table-hover">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Customer ID</th>
+                        <th>Contact Name</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var cust in Model)
+                    {
+                        <tr>
+                            <td>@cust.CustomerId</td>
+                            <td>@cust.ContactName</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <div class="text-center mt-5">
+            <p class="text-muted fs-5">No customers found for the entered range.</p>
+        </div>
+    }
+</div>
