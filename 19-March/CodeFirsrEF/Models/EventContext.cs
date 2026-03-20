@@ -24,5 +24,8 @@ namespace CodeFirsrEF.Models
 
         public DbSet<Product> products { set; get; }
 
+        public DbSet<Post> posts { set; get; }
+
+
     }
 }

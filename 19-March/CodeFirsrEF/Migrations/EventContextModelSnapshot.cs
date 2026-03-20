@@ -154,6 +154,30 @@ namespace CodeFirsrEF.Migrations
                     b.ToTable("employees");
                 });
 
+            modelBuilder.Entity("CodeFirsrEF.Models.Post", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Body")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("DatePublished")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("posts");
+                });
+
             modelBuilder.Entity("CodeFirsrEF.Models.Product", b =>
                 {
                     b.Property<int>("ProductId")

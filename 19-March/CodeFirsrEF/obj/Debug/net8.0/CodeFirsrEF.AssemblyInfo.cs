@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeFirsrEF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+118f84f78e0785d7f8eadac3c219e1841f779865")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ea4c7d4ed8fe7538b27e32f89dd7307c2f6bae6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeFirsrEF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeFirsrEF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

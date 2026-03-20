@@ -1,4 +1,5 @@
 using CodeFirsrEF.Models;
+using CodeFirsrEF.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 namespace CodeFirsrEF
@@ -9,8 +10,10 @@ namespace CodeFirsrEF
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddDbContext<EventContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("constring")));
+            
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddScoped<IPost, PostRepository>();
 
             var app = builder.Build();
 
