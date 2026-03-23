@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Aman Anand\\source\\repos\\11_march\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4ADA1616-C9F9-4808-AF97-1E9F6E4D504A}|mvcdemo\\mvcdemo.csproj|c:\\users\\aman anand\\source\\repos\\11_march\\mvcdemo\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4ADA1616-C9F9-4808-AF97-1E9F6E4D504A}|mvcdemo\\mvcdemo.csproj|solutionrelative:mvcdemo\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|mvcdemo\\mvcdemo.csproj|c:\\users\\aman anand\\source\\repos\\11_march\\mvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|mvcdemo\\mvcdemo.csproj|solutionrelative:mvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aman Anand\\source\\repos\\11_march\\mvcdemo\\Views\\Home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mvcdemo\\Views\\Home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|mvcdemo\\mvcdemo.csproj|c:\\users\\aman anand\\source\\repos\\11_march\\mvcdemo\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|mvcdemo\\mvcdemo.csproj|solutionrelative:mvcdemo\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|mvcdemo\\mvcdemo.csproj|c:\\users\\aman anand\\source\\repos\\11_march\\mvcdemo\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|mvcdemo\\mvcdemo.csproj|solutionrelative:mvcdemo\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,16 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -35,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\11_march\\mvcdemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mvcdemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\11_march\\mvcdemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mvcdemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T17:53:31.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\11_march\\mvcdemo\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "mvcdemo\\wwwroot\\css\\style.css",
@@ -47,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "display.cshtml",
               "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\11_march\\mvcdemo\\Views\\Home\\display.cshtml",
               "RelativeDocumentMoniker": "mvcdemo\\Views\\Home\\display.cshtml",
@@ -55,8 +64,23 @@
               "RelativeToolTip": "mvcdemo\\Views\\Home\\display.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAGcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-11T06:28:38.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T06:28:38.962Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Index3";
+}
+
+<h1>Index3</h1>
+<h2>Index3 Page</h2>
+
+@if (ViewBag.MyKey != null)
+{
+    <p style="color:red; font-weight:bold;">
+        TempData Value: @ViewBag.MyKey
+    </p>
+}
+else
+{
+    <p style="color:cornflowerblue;">
+        No data found in TempData
+    </p>
+}
+
+<br />
+
+<a asp-action="Index">Back to Index</a>

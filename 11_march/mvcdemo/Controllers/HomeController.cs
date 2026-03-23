@@ -14,9 +14,10 @@ namespace mvcdemo.Controllers
         }
         public string sampledemo1 ()
         {
+          
             return "hello";
         }
-
+        
         public string sampledemo2(string name)
         {
             return "hello ," + name;
