@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+3JqAJfqEns=",
+  "dgSpecHash": "PzKt7EhyEaQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aman Anand\\source\\repos\\16-March\\mvcefdemo\\mvcefdemo.csproj",
+  "projectFilePath": "C:\\Users\\Aman Anand\\source\\repos\\16&18-March\\mvcefdemo\\mvcefdemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aman Anand\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Aman Anand\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

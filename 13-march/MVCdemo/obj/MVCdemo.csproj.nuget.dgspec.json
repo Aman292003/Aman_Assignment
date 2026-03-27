@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\MVCdemo.csproj": {}
+    "C:\\Users\\Aman Anand\\source\\repos\\13-march\\MVCdemo\\MVCdemo.csproj": {}
   },
   "projects": {
-    "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\MVCdemo.csproj": {
+    "C:\\Users\\Aman Anand\\source\\repos\\13-march\\MVCdemo\\MVCdemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\MVCdemo.csproj",
+        "projectUniqueName": "C:\\Users\\Aman Anand\\source\\repos\\13-march\\MVCdemo\\MVCdemo.csproj",
         "projectName": "MVCdemo",
-        "projectPath": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\MVCdemo.csproj",
-        "packagesPath": "C:\\Users\\Divyansh Rai\\.nuget\\packages\\",
-        "outputPath": "E:\\Capegemini\\Visual Studio\\March11 Assignments\\MVCdemo\\obj\\",
+        "projectPath": "C:\\Users\\Aman Anand\\source\\repos\\13-march\\MVCdemo\\MVCdemo.csproj",
+        "packagesPath": "C:\\Users\\Aman Anand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aman Anand\\source\\repos\\13-march\\MVCdemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Divyansh Rai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aman Anand\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

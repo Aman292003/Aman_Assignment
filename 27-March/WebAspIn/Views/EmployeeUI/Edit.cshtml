@@ -1,0 +1,104 @@
+﻿@{
+    ViewBag.Title = "Edit Employee";
+    var empId = ViewBag.EmployeeId;
+}
+
+<h3>Edit Employee</h3>
+
+<div class="card">
+    <div class="card-header bg-warning text-dark">
+        Edit Employee
+    </div>
+
+    <div class="card-body">
+        <form id="editForm" enctype="multipart/form-data">
+            <input type="hidden" id="empId" value="@empId" />
+
+            <div class="text-center mb-3">
+                <img id="empImage" src="" style="width:300px;" class="img-fluid" />
+            </div>
+
+            <div class="mb-3">
+                <label>First Name</label>
+                <input type="text" id="firstName" class="form-control" required />
+            </div>
+
+            <div class="mb-3">
+                <label>Last Name</label>
+                <input type="text" id="lastName" class="form-control" required />
+            </div>
+
+            <div class="mb-3">
+                <label>Email</label>
+                <input type="email" id="email" class="form-control" required />
+            </div>
+
+            <div class="mb-3">
+                <label>Age</label>
+                <input type="number" id="age" class="form-control" required />
+            </div>
+
+            <div class="mb-3">
+                <label>Change Image</label>
+                <input type="file" id="image" class="form-control" />
+            </div>
+
+            <button type="submit" class="btn btn-success">Update</button>
+            <a href="/EmployeeUI/Index" class="btn btn-secondary">Back</a>
+        </form>
+    </div>
+</div>
+
+<script>
+    const id = $("#empId").val();
+
+    // 🔹 Load existing data
+    $(document).ready(function () {
+        $.ajax({
+            url: `/api/Emp/${id}`,
+            type: "GET",
+            success: function (emp) {
+                $("#firstName").val(emp.firstName);
+                $("#lastName").val(emp.lastName);
+                $("#email").val(emp.email);
+                $("#age").val(emp.age);
+                    var img = $("#empImage");
+
+    img.attr("src", emp.imagePath ? emp.imagePath : "/uploads/default.jpeg");
+
+    img.on("error", function () {
+        $(this).attr("src", "/uploads/default.jpeg");
+    });
+            }
+        });
+    });
+
+    // 🔹 Update employee
+    $("#editForm").submit(function (e) {
+        e.preventDefault();
+
+        let formData = new FormData();
+        formData.append("FirstName", $("#firstName").val());
+        formData.append("LastName", $("#lastName").val());
+        formData.append("Email", $("#email").val());
+        formData.append("Age", $("#age").val());
+
+        let file = $("#image")[0].files[0];
+        if (file) formData.append("image", file);
+
+        $.ajax({
+            url: `/api/Emp/${id}`,
+            type: "PUT",
+            data: formData,
+            processData: false,
+            contentType: false,
+            success: function () {
+                alert("Employee updated successfully!");
+                window.location.href = "/EmployeeUI/Index";
+            },
+            error: function () {
+                alert("Update failed");
+            }
+        });
+    });
+</script>
