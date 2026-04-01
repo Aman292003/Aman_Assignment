@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB61D5E6-5A0B-5172-0CE6-FB820320E50C}|CodeFirsrEF\\CodeFirsrEF.csproj|c:\\users\\aman anand\\source\\repos\\19-march\\codefirsref\\repositories\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB61D5E6-5A0B-5172-0CE6-FB820320E50C}|CodeFirsrEF\\CodeFirsrEF.csproj|solutionrelative:codefirsref\\repositories\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB61D5E6-5A0B-5172-0CE6-FB820320E50C}|CodeFirsrEF\\CodeFirsrEF.csproj|c:\\users\\aman anand\\source\\repos\\19-march\\codefirsref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB61D5E6-5A0B-5172-0CE6-FB820320E50C}|CodeFirsrEF\\CodeFirsrEF.csproj|solutionrelative:codefirsref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB61D5E6-5A0B-5172-0CE6-FB820320E50C}|CodeFirsrEF\\CodeFirsrEF.csproj|c:\\users\\aman anand\\source\\repos\\19-march\\codefirsref\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB61D5E6-5A0B-5172-0CE6-FB820320E50C}|CodeFirsrEF\\CodeFirsrEF.csproj|solutionrelative:codefirsref\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61D5E6-5A0B-5172-0CE6-FB820320E50C}|CodeFirsrEF\\CodeFirsrEF.csproj|c:\\users\\aman anand\\source\\repos\\19-march\\codefirsref\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB61D5E6-5A0B-5172-0CE6-FB820320E50C}|CodeFirsrEF\\CodeFirsrEF.csproj|solutionrelative:codefirsref\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB61D5E6-5A0B-5172-0CE6-FB820320E50C}|CodeFirsrEF\\CodeFirsrEF.csproj|c:\\users\\aman anand\\source\\repos\\19-march\\codefirsref\\repositories\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB61D5E6-5A0B-5172-0CE6-FB820320E50C}|CodeFirsrEF\\CodeFirsrEF.csproj|solutionrelative:codefirsref\\repositories\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB61D5E6-5A0B-5172-0CE6-FB820320E50C}|CodeFirsrEF\\CodeFirsrEF.csproj|c:\\users\\aman anand\\source\\repos\\19-march\\codefirsref\\codefirsref.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,25 +62,51 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirsrEF\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Program.cs",
+              "RelativeToolTip": "CodeFirsrEF\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:36:38.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "CodeFirsrEF\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Controllers\\PostController.cs",
+              "RelativeToolTip": "CodeFirsrEF\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAuwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:26:55.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PostRepository.cs",
               "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Repositories\\PostRepository.cs",
               "RelativeDocumentMoniker": "CodeFirsrEF\\Repositories\\PostRepository.cs",
-              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Repositories\\PostRepository.cs*",
-              "RelativeToolTip": "CodeFirsrEF\\Repositories\\PostRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "CodeFirsrEF\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T06:24:31.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "IPost.cs",
               "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Repositories\\IPost.cs",
               "RelativeDocumentMoniker": "CodeFirsrEF\\Repositories\\IPost.cs",
-              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Repositories\\IPost.cs*",
-              "RelativeToolTip": "CodeFirsrEF\\Repositories\\IPost.cs*",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Repositories\\IPost.cs",
+              "RelativeToolTip": "CodeFirsrEF\\Repositories\\IPost.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T06:23:39.185Z",
@@ -80,20 +114,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CodeFirsrEF",
               "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\CodeFirsrEF.csproj",
               "RelativeDocumentMoniker": "CodeFirsrEF\\CodeFirsrEF.csproj",
-              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\CodeFirsrEF.csproj*",
-              "RelativeToolTip": "CodeFirsrEF\\CodeFirsrEF.csproj*",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\CodeFirsrEF.csproj",
+              "RelativeToolTip": "CodeFirsrEF\\CodeFirsrEF.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-03-20T06:22:41.263Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "20260320061642_posts added.cs",
               "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Migrations\\20260320061642_posts added.cs",
               "RelativeDocumentMoniker": "CodeFirsrEF\\Migrations\\20260320061642_posts added.cs",
@@ -106,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Models\\Post.cs",
               "RelativeDocumentMoniker": "CodeFirsrEF\\Models\\Post.cs",
@@ -123,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "EventContext.cs",
               "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Models\\EventContext.cs",
               "RelativeDocumentMoniker": "CodeFirsrEF\\Models\\EventContext.cs",
@@ -144,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CreateProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Views\\Transaction\\CreateProduct.cshtml",
               "RelativeDocumentMoniker": "CodeFirsrEF\\Views\\Transaction\\CreateProduct.cshtml",
@@ -155,12 +193,8 @@
               "WhenOpened": "2026-03-19T09:54:39.915Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "TransactionController.cs",
               "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "CodeFirsrEF\\Controllers\\TransactionController.cs",
@@ -173,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CreateCustomer.cshtml",
               "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\19-March\\CodeFirsrEF\\Views\\Transaction\\CreateCustomer.cshtml",
               "RelativeDocumentMoniker": "CodeFirsrEF\\Views\\Transaction\\CreateCustomer.cshtml",
