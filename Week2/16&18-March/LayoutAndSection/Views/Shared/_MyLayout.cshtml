@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"] - My App</title>
+    <style type="text/css">
+        body { margin:0; font-family: Arial, sans-serif; }
+
+        /* Sidebar */
+        .auto-style1 {
+            width: 373px;
+            background-color: #FF3399;
+            vertical-align: top;
+            padding: 20px; /* replaces multiple <br /> */
+        }
+
+        /* Header and Footer */
+        .header {
+            height:50px;
+            background-color:#66FFCC;
+            text-align:center;
+        }
+        .footer {
+            height:50px;
+            background-color: yellow;
+            text-align:center;
+        }
+
+        /* Content cell */
+        .content {
+            padding:20px;
+            vertical-align: top;
+        }
+
+        ul { list-style:none; padding:0; }
+        li { margin:10px 0; }
+
+        table { width:100%; border-collapse: collapse; }
+    </style>
+</head>
+<body>
+
+<table style="width:100%;">
+    <!-- Header -->
+    <tr>
+        <td colspan="2" class="header">&nbsp;</td>
+    </tr>
+
+    <!-- Main Content -->
+    <tr>
+        <!-- Sidebar -->
+        <td class="auto-style1">
+            <ul>
+                <li>@Html.ActionLink("EmpData", "Index", "Emp")</li>
+                <li>@Html.ActionLink("DeptData", "Index", "Dept")</li>
+            </ul>
+
+            <!-- Optional extra links from views -->
+            @RenderSection("HyperlinkTags", required: false)
+        </td>
+
+        <!-- Main Body -->
+        <td class="content">
+            @RenderBody()
+        </td>
+    </tr>
+
+    <!-- Footer -->
+    <tr>
+        <td colspan="2" class="footer">
+            @RenderSection("Capgemini", required: false)
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+﻿@model CodeFirsrEF.Models.Customer
+
+@{
+    ViewData["Title"] = "CreateCustomer";
+}
+
+<h1>Create Customer</h1>
+
+<form asp-action="CreateCustomer" method="post">
+    <div class="form-group">
+        <label asp-for="CustomerName"></label>
+        <input asp-for="CustomerName" class="form-control" />
+        <span asp-validation-for="CustomerName" class="text-danger"></span>
+    </div>
+
+    <button type="submit">Save</button>
+</form>

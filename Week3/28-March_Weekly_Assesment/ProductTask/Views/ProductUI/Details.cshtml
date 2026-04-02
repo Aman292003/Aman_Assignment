@@ -1,0 +1,73 @@
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<section class="page-heading">
+    <p class="eyebrow">Inventory snapshot</p>
+    <h2>Product details</h2>
+    <p>Review the selected item before making updates or heading back to the catalog.</p>
+</section>
+
+<section class="detail-panel">
+    <div class="detail-stack">
+        <div class="detail-card">
+            <div class="detail-card-label">Product Name</div>
+            <div class="detail-card-value hero" id="productName">Loading...</div>
+        </div>
+
+        <div class="detail-card">
+            <div class="detail-card-label">Product ID</div>
+            <div class="detail-card-value" id="productId"></div>
+        </div>
+
+        <div class="detail-card">
+            <div class="detail-card-label">Price</div>
+            <div class="detail-card-value" id="productPrice"></div>
+        </div>
+
+        <div class="detail-card">
+            <div class="detail-card-label">Category</div>
+            <div class="detail-card-value" id="productCategory"></div>
+        </div>
+
+        <div class="form-actions">
+            <a href="/ProductUI/Edit" id="editLink" class="btn-info-soft">Edit Product</a>
+            <a href="/ProductUI/Index" class="btn-ghost">Back to Dashboard</a>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            const params = new URLSearchParams(window.location.search);
+            const id = params.get("id");
+
+            if (!id) {
+                alert("No product ID provided");
+                return;
+            }
+
+            $("#editLink").attr("href", `/ProductUI/Edit?id=${id}`);
+
+            $.ajax({
+                url: `/api/Product/${id}`,
+                type: "GET",
+                success: function (prod) {
+                    if (!prod) {
+                        alert("Product not found");
+                        return;
+                    }
+
+                    $("#productName").text(prod.name);
+                    $("#productId").text(`#${prod.id}`);
+                    $("#productPrice").text(`Rs. ${prod.price}`);
+                    $("#productCategory").text(prod.category);
+                },
+                error: function () {
+                    alert("Failed to load product details.");
+                }
+            });
+        });
+    </script>
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AzureBlobProject/AzureBlobProject.csproj" Id="43939e01-c37b-426d-9cb4-7c262d8ef03d" />
+  <Project Path="WebAspIn/WebAspIn.csproj" />
+</Solution>

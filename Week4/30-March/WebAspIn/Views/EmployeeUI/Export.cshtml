@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Export Employees";
+}
+
+<h3>Export Employees</h3>
+
+<button id="btnExport" class="btn btn-primary">Download CSV</button>
+
+<script>
+    $("#btnExport").click(function () {
+        // Example: trigger a download
+        window.location.href = "/EmployeeUI/Export";
+    });
+</script>
