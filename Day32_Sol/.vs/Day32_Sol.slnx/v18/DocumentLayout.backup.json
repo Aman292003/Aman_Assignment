@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aman Anand\\source\\repos\\Day32_Sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22881A33-D59A-4D54-ABE0-1F81517C0E3A}|Nav_propertiesdemo\\Nav_propertiesdemo.csproj|c:\\users\\aman anand\\source\\repos\\day32_sol\\nav_propertiesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22881A33-D59A-4D54-ABE0-1F81517C0E3A}|Nav_propertiesdemo\\Nav_propertiesdemo.csproj|solutionrelative:nav_propertiesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDCE7BA-1495-4CAC-9973-A897F72AFB0F}|EMURABLEDEMO\\EMURABLEDEMO.csproj|c:\\users\\aman anand\\source\\repos\\day32_sol\\emurabledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDCE7BA-1495-4CAC-9973-A897F72AFB0F}|EMURABLEDEMO\\EMURABLEDEMO.csproj|solutionrelative:emurabledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580313AD-0AF2-4A6E-A1A9-E4C5CEF9403F}|oops\\oops.csproj|c:\\users\\aman anand\\source\\repos\\day32_sol\\oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580313AD-0AF2-4A6E-A1A9-E4C5CEF9403F}|oops\\oops.csproj|solutionrelative:oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day32_Sol\\Nav_propertiesdemo\\Program.cs",
+              "RelativeDocumentMoniker": "Nav_propertiesdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day32_Sol\\Nav_propertiesdemo\\Program.cs*",
+              "RelativeToolTip": "Nav_propertiesdemo\\Program.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:03:15.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day32_Sol\\EMURABLEDEMO\\Program.cs",
+              "RelativeDocumentMoniker": "EMURABLEDEMO\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day32_Sol\\EMURABLEDEMO\\Program.cs",
+              "RelativeToolTip": "EMURABLEDEMO\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:42:39.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day32_Sol\\oops\\Program.cs",
+              "RelativeDocumentMoniker": "oops\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day32_Sol\\oops\\Program.cs",
+              "RelativeToolTip": "oops\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T04:17:56.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\Aman Anand\source\repos\day29sol\LinqToSql1\bin\Debug\LinqToSql1.exe.config
+C:\Users\Aman Anand\source\repos\day29sol\LinqToSql1\bin\Debug\LinqToSql1.exe
+C:\Users\Aman Anand\source\repos\day29sol\LinqToSql1\bin\Debug\LinqToSql1.pdb
+C:\Users\Aman Anand\source\repos\day29sol\LinqToSql1\obj\Debug\LinqToSql1.csproj.AssemblyReference.cache
+C:\Users\Aman Anand\source\repos\day29sol\LinqToSql1\obj\Debug\LinqToSql1.Form1.resources
+C:\Users\Aman Anand\source\repos\day29sol\LinqToSql1\obj\Debug\LinqToSql1.Properties.Resources.resources
+C:\Users\Aman Anand\source\repos\day29sol\LinqToSql1\obj\Debug\LinqToSql1.csproj.GenerateResource.cache
+C:\Users\Aman Anand\source\repos\day29sol\LinqToSql1\obj\Debug\LinqToSql1.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day29sol\LinqToSql1\obj\Debug\LinqToSql1.exe
+C:\Users\Aman Anand\source\repos\day29sol\LinqToSql1\obj\Debug\LinqToSql1.pdb

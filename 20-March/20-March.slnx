@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PartialViewEFdemo/PartialViewEFdemo.csproj" />
+  <Project Path="RoutingCGDemo/RoutingCGDemo.csproj" />
+</Solution>

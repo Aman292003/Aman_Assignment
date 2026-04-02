@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day2_project\loop_demo\bin\Debug\net8.0\loop_demo.exe
+C:\Users\Aman Anand\source\repos\Day2_project\loop_demo\bin\Debug\net8.0\loop_demo.deps.json
+C:\Users\Aman Anand\source\repos\Day2_project\loop_demo\bin\Debug\net8.0\loop_demo.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day2_project\loop_demo\bin\Debug\net8.0\loop_demo.dll
+C:\Users\Aman Anand\source\repos\Day2_project\loop_demo\bin\Debug\net8.0\loop_demo.pdb
+C:\Users\Aman Anand\source\repos\Day2_project\loop_demo\obj\Debug\net8.0\loop_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day2_project\loop_demo\obj\Debug\net8.0\loop_demo.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day2_project\loop_demo\obj\Debug\net8.0\loop_demo.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day2_project\loop_demo\obj\Debug\net8.0\loop_demo.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day2_project\loop_demo\obj\Debug\net8.0\loop_demo.dll
+C:\Users\Aman Anand\source\repos\Day2_project\loop_demo\obj\Debug\net8.0\refint\loop_demo.dll
+C:\Users\Aman Anand\source\repos\Day2_project\loop_demo\obj\Debug\net8.0\loop_demo.pdb
+C:\Users\Aman Anand\source\repos\Day2_project\loop_demo\obj\Debug\net8.0\loop_demo.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day2_project\loop_demo\obj\Debug\net8.0\ref\loop_demo.dll

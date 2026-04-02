@@ -1,0 +1,17 @@
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\bin\Debug\net8.0-windows\class_object demo.exe
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\bin\Debug\net8.0-windows\class_object demo.deps.json
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\bin\Debug\net8.0-windows\class_object demo.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\bin\Debug\net8.0-windows\class_object demo.dll
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\bin\Debug\net8.0-windows\class_object demo.pdb
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\obj\Debug\net8.0-windows\class_object_demo.Form1.resources
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\obj\Debug\net8.0-windows\class_object_demo.Properties.Resources.resources
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\obj\Debug\net8.0-windows\class_object demo.csproj.GenerateResource.cache
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\obj\Debug\net8.0-windows\class_object demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\obj\Debug\net8.0-windows\class_object demo.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\obj\Debug\net8.0-windows\class_object demo.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\obj\Debug\net8.0-windows\class_object demo.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\obj\Debug\net8.0-windows\class_object demo.dll
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\obj\Debug\net8.0-windows\refint\class_object demo.dll
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\obj\Debug\net8.0-windows\class_object demo.pdb
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\obj\Debug\net8.0-windows\class_object demo.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day2_project\class_object demo\obj\Debug\net8.0-windows\ref\class_object demo.dll

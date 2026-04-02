@@ -1,0 +1,176 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "BinaryFormatter/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.1/BinaryFormatter.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/BinaryFormatter.dll": {}
+        }
+      },
+      "SoapFormatter/1.1.9": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SoapFormatter.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SoapFormatter.dll": {}
+        }
+      },
+      "System.Runtime.Serialization.Formatters/10.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/System.Runtime.Serialization.Formatters.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/System.Runtime.Serialization.Formatters.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinaryFormatter/3.0.0": {
+      "sha512": "hbfl4AUJLkg1D8f1j5IPg2zNResZalewzfMt86So/NzNS86xBMU4JmcMk7BN4KKSWK6nRR4GOALDxn44Dc8s5A==",
+      "type": "package",
+      "path": "binaryformatter/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "binaryformatter.3.0.0.nupkg.sha512",
+        "binaryformatter.nuspec",
+        "lib/netcoreapp2.1/BinaryFormatter.dll",
+        "lib/netstandard1.1/BinaryFormatter.dll",
+        "lib/netstandard2.0/BinaryFormatter.dll"
+      ]
+    },
+    "SoapFormatter/1.1.9": {
+      "sha512": "9okRnHpuoOKlTlxid6sddSjZ0OVGbK4EjSf3VvxOLnQfTkV3iGZzSQa2ZYYuD+apairVrPqwZ3lPvcFqR8b7Kw==",
+      "type": "package",
+      "path": "soapformatter/1.1.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SoapFormatter.dll",
+        "soapformatter.1.1.9.nupkg.sha512",
+        "soapformatter.nuspec"
+      ]
+    },
+    "System.Runtime.Serialization.Formatters/10.0.2": {
+      "sha512": "FxkZJPnWKXJbVAXdPdP3bJ7Njv58aGHv7lnTxi5p26Z2c0pA0PQIA9Ix5TC1FTBaRQSirRYbY9nZY4kkDhhX2A==",
+      "type": "package",
+      "path": "system.runtime.serialization.formatters/10.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net8.0/System.Runtime.Serialization.Formatters.dll",
+        "lib/net8.0/System.Runtime.Serialization.Formatters.xml",
+        "system.runtime.serialization.formatters.10.0.2.nupkg.sha512",
+        "system.runtime.serialization.formatters.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "BinaryFormatter >= 3.0.0",
+      "SoapFormatter >= 1.1.9",
+      "System.Runtime.Serialization.Formatters >= 10.0.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Aman Anand\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Aman Anand\\source\\repos\\Day13_Solution\\Searlizatiom\\Searlizatiom.csproj",
+      "projectName": "Searlizatiom",
+      "projectPath": "C:\\Users\\Aman Anand\\source\\repos\\Day13_Solution\\Searlizatiom\\Searlizatiom.csproj",
+      "packagesPath": "C:\\Users\\Aman Anand\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aman Anand\\source\\repos\\Day13_Solution\\Searlizatiom\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Aman Anand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "BinaryFormatter": {
+            "target": "Package",
+            "version": "[3.0.0, )"
+          },
+          "SoapFormatter": {
+            "target": "Package",
+            "version": "[1.1.9, )"
+          },
+          "System.Runtime.Serialization.Formatters": {
+            "target": "Package",
+            "version": "[10.0.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

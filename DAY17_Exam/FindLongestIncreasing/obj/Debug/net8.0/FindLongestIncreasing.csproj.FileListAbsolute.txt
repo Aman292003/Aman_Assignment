@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\DAY17_Exam\FindLongestIncreasing\bin\Debug\net8.0\FindLongestIncreasing.exe
+C:\Users\Aman Anand\source\repos\DAY17_Exam\FindLongestIncreasing\bin\Debug\net8.0\FindLongestIncreasing.deps.json
+C:\Users\Aman Anand\source\repos\DAY17_Exam\FindLongestIncreasing\bin\Debug\net8.0\FindLongestIncreasing.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\DAY17_Exam\FindLongestIncreasing\bin\Debug\net8.0\FindLongestIncreasing.dll
+C:\Users\Aman Anand\source\repos\DAY17_Exam\FindLongestIncreasing\bin\Debug\net8.0\FindLongestIncreasing.pdb
+C:\Users\Aman Anand\source\repos\DAY17_Exam\FindLongestIncreasing\obj\Debug\net8.0\FindLongestIncreasing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\DAY17_Exam\FindLongestIncreasing\obj\Debug\net8.0\FindLongestIncreasing.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\DAY17_Exam\FindLongestIncreasing\obj\Debug\net8.0\FindLongestIncreasing.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\DAY17_Exam\FindLongestIncreasing\obj\Debug\net8.0\FindLongestIncreasing.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\DAY17_Exam\FindLongestIncreasing\obj\Debug\net8.0\FindLongestIncreasing.dll
+C:\Users\Aman Anand\source\repos\DAY17_Exam\FindLongestIncreasing\obj\Debug\net8.0\refint\FindLongestIncreasing.dll
+C:\Users\Aman Anand\source\repos\DAY17_Exam\FindLongestIncreasing\obj\Debug\net8.0\FindLongestIncreasing.pdb
+C:\Users\Aman Anand\source\repos\DAY17_Exam\FindLongestIncreasing\obj\Debug\net8.0\FindLongestIncreasing.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\DAY17_Exam\FindLongestIncreasing\obj\Debug\net8.0\ref\FindLongestIncreasing.dll

@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="class_object demo/class_object demo.csproj" Id="72b36adc-8860-41d3-a67a-ea810381d33f" />
+  <Project Path="loop_demo/loop_demo.csproj" />
+  <Project Path="nested_if/nested_if.csproj" />
+  <Project Path="Switchinsidedowhile/Switchinsidedowhile.csproj" />
+</Solution>

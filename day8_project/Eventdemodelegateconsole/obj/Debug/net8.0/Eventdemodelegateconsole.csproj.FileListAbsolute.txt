@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day8_project\Eventdemodelegateconsole\bin\Debug\net8.0\Eventdemodelegateconsole.exe
+C:\Users\Aman Anand\source\repos\day8_project\Eventdemodelegateconsole\bin\Debug\net8.0\Eventdemodelegateconsole.deps.json
+C:\Users\Aman Anand\source\repos\day8_project\Eventdemodelegateconsole\bin\Debug\net8.0\Eventdemodelegateconsole.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day8_project\Eventdemodelegateconsole\bin\Debug\net8.0\Eventdemodelegateconsole.dll
+C:\Users\Aman Anand\source\repos\day8_project\Eventdemodelegateconsole\bin\Debug\net8.0\Eventdemodelegateconsole.pdb
+C:\Users\Aman Anand\source\repos\day8_project\Eventdemodelegateconsole\obj\Debug\net8.0\Eventdemodelegateconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day8_project\Eventdemodelegateconsole\obj\Debug\net8.0\Eventdemodelegateconsole.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day8_project\Eventdemodelegateconsole\obj\Debug\net8.0\Eventdemodelegateconsole.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day8_project\Eventdemodelegateconsole\obj\Debug\net8.0\Eventdemodelegateconsole.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day8_project\Eventdemodelegateconsole\obj\Debug\net8.0\Eventdemodelegateconsole.dll
+C:\Users\Aman Anand\source\repos\day8_project\Eventdemodelegateconsole\obj\Debug\net8.0\refint\Eventdemodelegateconsole.dll
+C:\Users\Aman Anand\source\repos\day8_project\Eventdemodelegateconsole\obj\Debug\net8.0\Eventdemodelegateconsole.pdb
+C:\Users\Aman Anand\source\repos\day8_project\Eventdemodelegateconsole\obj\Debug\net8.0\Eventdemodelegateconsole.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day8_project\Eventdemodelegateconsole\obj\Debug\net8.0\ref\Eventdemodelegateconsole.dll

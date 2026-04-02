@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day9_project\nongenericarraylistdemo\bin\Debug\net8.0\nongenericarraylistdemo.exe
+C:\Users\Aman Anand\source\repos\day9_project\nongenericarraylistdemo\bin\Debug\net8.0\nongenericarraylistdemo.deps.json
+C:\Users\Aman Anand\source\repos\day9_project\nongenericarraylistdemo\bin\Debug\net8.0\nongenericarraylistdemo.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day9_project\nongenericarraylistdemo\bin\Debug\net8.0\nongenericarraylistdemo.dll
+C:\Users\Aman Anand\source\repos\day9_project\nongenericarraylistdemo\bin\Debug\net8.0\nongenericarraylistdemo.pdb
+C:\Users\Aman Anand\source\repos\day9_project\nongenericarraylistdemo\obj\Debug\net8.0\nongenericarraylistdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day9_project\nongenericarraylistdemo\obj\Debug\net8.0\nongenericarraylistdemo.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day9_project\nongenericarraylistdemo\obj\Debug\net8.0\nongenericarraylistdemo.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day9_project\nongenericarraylistdemo\obj\Debug\net8.0\nongenericarraylistdemo.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day9_project\nongenericarraylistdemo\obj\Debug\net8.0\nongenericarraylistdemo.dll
+C:\Users\Aman Anand\source\repos\day9_project\nongenericarraylistdemo\obj\Debug\net8.0\refint\nongenericarraylistdemo.dll
+C:\Users\Aman Anand\source\repos\day9_project\nongenericarraylistdemo\obj\Debug\net8.0\nongenericarraylistdemo.pdb
+C:\Users\Aman Anand\source\repos\day9_project\nongenericarraylistdemo\obj\Debug\net8.0\nongenericarraylistdemo.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day9_project\nongenericarraylistdemo\obj\Debug\net8.0\ref\nongenericarraylistdemo.dll

@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day8_project\Anonomiususingdelegats\bin\Debug\net8.0\Anonomiususingdelegats.exe
+C:\Users\Aman Anand\source\repos\day8_project\Anonomiususingdelegats\bin\Debug\net8.0\Anonomiususingdelegats.deps.json
+C:\Users\Aman Anand\source\repos\day8_project\Anonomiususingdelegats\bin\Debug\net8.0\Anonomiususingdelegats.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day8_project\Anonomiususingdelegats\bin\Debug\net8.0\Anonomiususingdelegats.dll
+C:\Users\Aman Anand\source\repos\day8_project\Anonomiususingdelegats\bin\Debug\net8.0\Anonomiususingdelegats.pdb
+C:\Users\Aman Anand\source\repos\day8_project\Anonomiususingdelegats\obj\Debug\net8.0\Anonomiususingdelegats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day8_project\Anonomiususingdelegats\obj\Debug\net8.0\Anonomiususingdelegats.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day8_project\Anonomiususingdelegats\obj\Debug\net8.0\Anonomiususingdelegats.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day8_project\Anonomiususingdelegats\obj\Debug\net8.0\Anonomiususingdelegats.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day8_project\Anonomiususingdelegats\obj\Debug\net8.0\Anonomiususingdelegats.dll
+C:\Users\Aman Anand\source\repos\day8_project\Anonomiususingdelegats\obj\Debug\net8.0\refint\Anonomiususingdelegats.dll
+C:\Users\Aman Anand\source\repos\day8_project\Anonomiususingdelegats\obj\Debug\net8.0\Anonomiususingdelegats.pdb
+C:\Users\Aman Anand\source\repos\day8_project\Anonomiususingdelegats\obj\Debug\net8.0\Anonomiususingdelegats.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day8_project\Anonomiususingdelegats\obj\Debug\net8.0\ref\Anonomiususingdelegats.dll

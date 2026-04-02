@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day4_solution\Boxing_Unboxing\bin\Debug\net8.0\Boxing_Unboxing.exe
+C:\Users\Aman Anand\source\repos\Day4_solution\Boxing_Unboxing\bin\Debug\net8.0\Boxing_Unboxing.deps.json
+C:\Users\Aman Anand\source\repos\Day4_solution\Boxing_Unboxing\bin\Debug\net8.0\Boxing_Unboxing.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day4_solution\Boxing_Unboxing\bin\Debug\net8.0\Boxing_Unboxing.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\Boxing_Unboxing\bin\Debug\net8.0\Boxing_Unboxing.pdb
+C:\Users\Aman Anand\source\repos\Day4_solution\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day4_solution\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day4_solution\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\Boxing_Unboxing\obj\Debug\net8.0\refint\Boxing_Unboxing.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.pdb
+C:\Users\Aman Anand\source\repos\Day4_solution\Boxing_Unboxing\obj\Debug\net8.0\Boxing_Unboxing.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\Boxing_Unboxing\obj\Debug\net8.0\ref\Boxing_Unboxing.dll

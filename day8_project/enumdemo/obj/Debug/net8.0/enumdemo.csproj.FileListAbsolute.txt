@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day8_project\enumdemo\bin\Debug\net8.0\enumdemo.exe
+C:\Users\Aman Anand\source\repos\day8_project\enumdemo\bin\Debug\net8.0\enumdemo.deps.json
+C:\Users\Aman Anand\source\repos\day8_project\enumdemo\bin\Debug\net8.0\enumdemo.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day8_project\enumdemo\bin\Debug\net8.0\enumdemo.dll
+C:\Users\Aman Anand\source\repos\day8_project\enumdemo\bin\Debug\net8.0\enumdemo.pdb
+C:\Users\Aman Anand\source\repos\day8_project\enumdemo\obj\Debug\net8.0\enumdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day8_project\enumdemo\obj\Debug\net8.0\enumdemo.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day8_project\enumdemo\obj\Debug\net8.0\enumdemo.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day8_project\enumdemo\obj\Debug\net8.0\enumdemo.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day8_project\enumdemo\obj\Debug\net8.0\enumdemo.dll
+C:\Users\Aman Anand\source\repos\day8_project\enumdemo\obj\Debug\net8.0\refint\enumdemo.dll
+C:\Users\Aman Anand\source\repos\day8_project\enumdemo\obj\Debug\net8.0\enumdemo.pdb
+C:\Users\Aman Anand\source\repos\day8_project\enumdemo\obj\Debug\net8.0\enumdemo.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day8_project\enumdemo\obj\Debug\net8.0\ref\enumdemo.dll

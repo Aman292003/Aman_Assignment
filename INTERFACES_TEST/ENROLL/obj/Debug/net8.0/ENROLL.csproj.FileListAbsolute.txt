@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\ENROLL\obj\Debug\net8.0\ENROLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\ENROLL\obj\Debug\net8.0\ENROLL.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\ENROLL\obj\Debug\net8.0\ENROLL.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\ENROLL\obj\Debug\net8.0\ENROLL.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\ENROLL\bin\Debug\net8.0\ENROLL.exe
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\ENROLL\bin\Debug\net8.0\ENROLL.deps.json
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\ENROLL\bin\Debug\net8.0\ENROLL.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\ENROLL\bin\Debug\net8.0\ENROLL.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\ENROLL\bin\Debug\net8.0\ENROLL.pdb
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\ENROLL\obj\Debug\net8.0\ENROLL.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\ENROLL\obj\Debug\net8.0\refint\ENROLL.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\ENROLL\obj\Debug\net8.0\ENROLL.pdb
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\ENROLL\obj\Debug\net8.0\ENROLL.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\ENROLL\obj\Debug\net8.0\ref\ENROLL.dll

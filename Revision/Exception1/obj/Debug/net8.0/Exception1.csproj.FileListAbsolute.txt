@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Revision\Exception1\bin\Debug\net8.0\Exception1.exe
+C:\Users\Aman Anand\source\repos\Revision\Exception1\bin\Debug\net8.0\Exception1.deps.json
+C:\Users\Aman Anand\source\repos\Revision\Exception1\bin\Debug\net8.0\Exception1.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Revision\Exception1\bin\Debug\net8.0\Exception1.dll
+C:\Users\Aman Anand\source\repos\Revision\Exception1\bin\Debug\net8.0\Exception1.pdb
+C:\Users\Aman Anand\source\repos\Revision\Exception1\obj\Debug\net8.0\Exception1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Revision\Exception1\obj\Debug\net8.0\Exception1.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Revision\Exception1\obj\Debug\net8.0\Exception1.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Revision\Exception1\obj\Debug\net8.0\Exception1.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Revision\Exception1\obj\Debug\net8.0\Exception1.dll
+C:\Users\Aman Anand\source\repos\Revision\Exception1\obj\Debug\net8.0\refint\Exception1.dll
+C:\Users\Aman Anand\source\repos\Revision\Exception1\obj\Debug\net8.0\Exception1.pdb
+C:\Users\Aman Anand\source\repos\Revision\Exception1\obj\Debug\net8.0\Exception1.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Revision\Exception1\obj\Debug\net8.0\ref\Exception1.dll

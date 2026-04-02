@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\newtesr\obj\Debug\net8.0\newtesr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\newtesr\obj\Debug\net8.0\newtesr.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\newtesr\obj\Debug\net8.0\newtesr.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\newtesr\obj\Debug\net8.0\newtesr.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\newtesr\bin\Debug\net8.0\newtesr.exe
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\newtesr\bin\Debug\net8.0\newtesr.deps.json
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\newtesr\bin\Debug\net8.0\newtesr.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\newtesr\bin\Debug\net8.0\newtesr.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\newtesr\bin\Debug\net8.0\newtesr.pdb
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\newtesr\obj\Debug\net8.0\newtesr.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\newtesr\obj\Debug\net8.0\refint\newtesr.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\newtesr\obj\Debug\net8.0\newtesr.pdb
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\newtesr\obj\Debug\net8.0\newtesr.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\newtesr\obj\Debug\net8.0\ref\newtesr.dll

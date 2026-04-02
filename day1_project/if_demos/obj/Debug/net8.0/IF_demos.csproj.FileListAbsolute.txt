@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day1_Project\IF_demos\bin\Debug\net8.0\IF_demos.exe
+C:\Users\Aman Anand\source\repos\Day1_Project\IF_demos\bin\Debug\net8.0\IF_demos.deps.json
+C:\Users\Aman Anand\source\repos\Day1_Project\IF_demos\bin\Debug\net8.0\IF_demos.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day1_Project\IF_demos\bin\Debug\net8.0\IF_demos.dll
+C:\Users\Aman Anand\source\repos\Day1_Project\IF_demos\bin\Debug\net8.0\IF_demos.pdb
+C:\Users\Aman Anand\source\repos\Day1_Project\IF_demos\obj\Debug\net8.0\IF_demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day1_Project\IF_demos\obj\Debug\net8.0\IF_demos.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day1_Project\IF_demos\obj\Debug\net8.0\IF_demos.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day1_Project\IF_demos\obj\Debug\net8.0\IF_demos.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day1_Project\IF_demos\obj\Debug\net8.0\IF_demos.dll
+C:\Users\Aman Anand\source\repos\Day1_Project\IF_demos\obj\Debug\net8.0\refint\IF_demos.dll
+C:\Users\Aman Anand\source\repos\Day1_Project\IF_demos\obj\Debug\net8.0\IF_demos.pdb
+C:\Users\Aman Anand\source\repos\Day1_Project\IF_demos\obj\Debug\net8.0\IF_demos.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day1_Project\IF_demos\obj\Debug\net8.0\ref\IF_demos.dll

@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day9_project\params_demo\bin\Debug\net8.0\params_demo.exe
+C:\Users\Aman Anand\source\repos\day9_project\params_demo\bin\Debug\net8.0\params_demo.deps.json
+C:\Users\Aman Anand\source\repos\day9_project\params_demo\bin\Debug\net8.0\params_demo.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day9_project\params_demo\bin\Debug\net8.0\params_demo.dll
+C:\Users\Aman Anand\source\repos\day9_project\params_demo\bin\Debug\net8.0\params_demo.pdb
+C:\Users\Aman Anand\source\repos\day9_project\params_demo\obj\Debug\net8.0\params_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day9_project\params_demo\obj\Debug\net8.0\params_demo.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day9_project\params_demo\obj\Debug\net8.0\params_demo.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day9_project\params_demo\obj\Debug\net8.0\params_demo.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day9_project\params_demo\obj\Debug\net8.0\params_demo.dll
+C:\Users\Aman Anand\source\repos\day9_project\params_demo\obj\Debug\net8.0\refint\params_demo.dll
+C:\Users\Aman Anand\source\repos\day9_project\params_demo\obj\Debug\net8.0\params_demo.pdb
+C:\Users\Aman Anand\source\repos\day9_project\params_demo\obj\Debug\net8.0\params_demo.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day9_project\params_demo\obj\Debug\net8.0\ref\params_demo.dll

@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\MUSIC\obj\Debug\net8.0\MUSIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\MUSIC\obj\Debug\net8.0\MUSIC.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\MUSIC\obj\Debug\net8.0\MUSIC.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\MUSIC\obj\Debug\net8.0\MUSIC.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\MUSIC\bin\Debug\net8.0\MUSIC.exe
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\MUSIC\bin\Debug\net8.0\MUSIC.deps.json
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\MUSIC\bin\Debug\net8.0\MUSIC.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\MUSIC\bin\Debug\net8.0\MUSIC.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\MUSIC\bin\Debug\net8.0\MUSIC.pdb
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\MUSIC\obj\Debug\net8.0\MUSIC.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\MUSIC\obj\Debug\net8.0\refint\MUSIC.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\MUSIC\obj\Debug\net8.0\MUSIC.pdb
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\MUSIC\obj\Debug\net8.0\MUSIC.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\MUSIC\obj\Debug\net8.0\ref\MUSIC.dll

@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day9_project\isasdemo\bin\Debug\net8.0\isasdemo.exe
+C:\Users\Aman Anand\source\repos\day9_project\isasdemo\bin\Debug\net8.0\isasdemo.deps.json
+C:\Users\Aman Anand\source\repos\day9_project\isasdemo\bin\Debug\net8.0\isasdemo.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day9_project\isasdemo\bin\Debug\net8.0\isasdemo.dll
+C:\Users\Aman Anand\source\repos\day9_project\isasdemo\bin\Debug\net8.0\isasdemo.pdb
+C:\Users\Aman Anand\source\repos\day9_project\isasdemo\obj\Debug\net8.0\isasdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day9_project\isasdemo\obj\Debug\net8.0\isasdemo.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day9_project\isasdemo\obj\Debug\net8.0\isasdemo.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day9_project\isasdemo\obj\Debug\net8.0\isasdemo.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day9_project\isasdemo\obj\Debug\net8.0\isasdemo.dll
+C:\Users\Aman Anand\source\repos\day9_project\isasdemo\obj\Debug\net8.0\refint\isasdemo.dll
+C:\Users\Aman Anand\source\repos\day9_project\isasdemo\obj\Debug\net8.0\isasdemo.pdb
+C:\Users\Aman Anand\source\repos\day9_project\isasdemo\obj\Debug\net8.0\isasdemo.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day9_project\isasdemo\obj\Debug\net8.0\ref\isasdemo.dll

@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|c:\\users\\aman anand\\source\\repos\\28-march_weekly_assesment\\producttask\\controllers\\productuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\controllers\\productuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|c:\\users\\aman anand\\source\\repos\\28-march_weekly_assesment\\producttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|c:\\users\\aman anand\\source\\repos\\28-march_weekly_assesment\\producttask\\views\\productui\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\views\\productui\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|c:\\users\\aman anand\\source\\repos\\28-march_weekly_assesment\\producttask\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|c:\\users\\aman anand\\source\\repos\\28-march_weekly_assesment\\producttask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|c:\\users\\aman anand\\source\\repos\\28-march_weekly_assesment\\producttask\\wwwroot\\css\\product-ui.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\wwwroot\\css\\product-ui.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|c:\\users\\aman anand\\source\\repos\\28-march_weekly_assesment\\producttask\\migrations\\productcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\migrations\\productcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|c:\\users\\aman anand\\source\\repos\\28-march_weekly_assesment\\producttask\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|c:\\users\\aman anand\\source\\repos\\28-march_weekly_assesment\\producttask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|c:\\users\\aman anand\\source\\repos\\28-march_weekly_assesment\\producttask\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|c:\\users\\aman anand\\source\\repos\\28-march_weekly_assesment\\producttask\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|c:\\users\\aman anand\\source\\repos\\28-march_weekly_assesment\\producttask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|c:\\users\\aman anand\\source\\repos\\28-march_weekly_assesment\\producttask\\views\\productui\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D32A208-F528-AEC6-2BD8-B94A8F153D96}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\views\\productui\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductUIController.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Controllers\\ProductUIController.cs",
+              "RelativeDocumentMoniker": "ProductTask\\Controllers\\ProductUIController.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Controllers\\ProductUIController.cs",
+              "RelativeToolTip": "ProductTask\\Controllers\\ProductUIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T12:16:40.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Program.cs",
+              "RelativeDocumentMoniker": "ProductTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Program.cs*",
+              "RelativeToolTip": "ProductTask\\Program.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T12:18:25.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductTask\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductTask\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T12:16:46.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "product-ui.css",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\wwwroot\\css\\product-ui.css",
+              "RelativeDocumentMoniker": "ProductTask\\wwwroot\\css\\product-ui.css",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\wwwroot\\css\\product-ui.css",
+              "RelativeToolTip": "ProductTask\\wwwroot\\css\\product-ui.css",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-29T12:14:12.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Models\\ProductContext.cs",
+              "RelativeDocumentMoniker": "ProductTask\\Models\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Models\\ProductContext.cs",
+              "RelativeToolTip": "ProductTask\\Models\\ProductContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T12:18:14.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductTask\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Models\\Product.cs",
+              "RelativeToolTip": "ProductTask\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T12:18:08.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductTask\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\ProductService.cs",
+              "RelativeToolTip": "ProductTask\\ProductService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T12:18:23.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Views\\ProductUI\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductTask\\Views\\ProductUI\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Views\\ProductUI\\Index.cshtml",
+              "RelativeToolTip": "ProductTask\\Views\\ProductUI\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T16:21:40.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProductTask\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProductTask\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T16:57:10.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Migrations\\ProductContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProductTask\\Migrations\\ProductContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Migrations\\ProductContextModelSnapshot.cs",
+              "RelativeToolTip": "ProductTask\\Migrations\\ProductContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T12:18:01.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\IProduct.cs",
+              "RelativeDocumentMoniker": "ProductTask\\IProduct.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\IProduct.cs",
+              "RelativeToolTip": "ProductTask\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T12:18:22.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductTask\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductTask\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T12:12:13.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Views\\ProductUI\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductTask\\Views\\ProductUI\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\28-March_Weekly_Assesment\\ProductTask\\Views\\ProductUI\\Edit.cshtml",
+              "RelativeToolTip": "ProductTask\\Views\\ProductUI\\Edit.cshtml",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T06:23:10.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

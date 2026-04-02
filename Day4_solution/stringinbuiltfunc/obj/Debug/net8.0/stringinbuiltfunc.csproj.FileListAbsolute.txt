@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day4_solution\stringinbuiltfunc\bin\Debug\net8.0\stringinbuiltfunc.exe
+C:\Users\Aman Anand\source\repos\Day4_solution\stringinbuiltfunc\bin\Debug\net8.0\stringinbuiltfunc.deps.json
+C:\Users\Aman Anand\source\repos\Day4_solution\stringinbuiltfunc\bin\Debug\net8.0\stringinbuiltfunc.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day4_solution\stringinbuiltfunc\bin\Debug\net8.0\stringinbuiltfunc.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\stringinbuiltfunc\bin\Debug\net8.0\stringinbuiltfunc.pdb
+C:\Users\Aman Anand\source\repos\Day4_solution\stringinbuiltfunc\obj\Debug\net8.0\stringinbuiltfunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day4_solution\stringinbuiltfunc\obj\Debug\net8.0\stringinbuiltfunc.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\stringinbuiltfunc\obj\Debug\net8.0\stringinbuiltfunc.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day4_solution\stringinbuiltfunc\obj\Debug\net8.0\stringinbuiltfunc.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\stringinbuiltfunc\obj\Debug\net8.0\stringinbuiltfunc.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\stringinbuiltfunc\obj\Debug\net8.0\refint\stringinbuiltfunc.dll
+C:\Users\Aman Anand\source\repos\Day4_solution\stringinbuiltfunc\obj\Debug\net8.0\stringinbuiltfunc.pdb
+C:\Users\Aman Anand\source\repos\Day4_solution\stringinbuiltfunc\obj\Debug\net8.0\stringinbuiltfunc.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day4_solution\stringinbuiltfunc\obj\Debug\net8.0\ref\stringinbuiltfunc.dll

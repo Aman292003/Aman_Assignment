@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day18\P4\bin\Debug\net8.0\P4.exe
+C:\Users\Aman Anand\source\repos\Day18\P4\bin\Debug\net8.0\P4.deps.json
+C:\Users\Aman Anand\source\repos\Day18\P4\bin\Debug\net8.0\P4.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day18\P4\bin\Debug\net8.0\P4.dll
+C:\Users\Aman Anand\source\repos\Day18\P4\bin\Debug\net8.0\P4.pdb
+C:\Users\Aman Anand\source\repos\Day18\P4\obj\Debug\net8.0\P4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day18\P4\obj\Debug\net8.0\P4.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day18\P4\obj\Debug\net8.0\P4.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day18\P4\obj\Debug\net8.0\P4.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day18\P4\obj\Debug\net8.0\P4.dll
+C:\Users\Aman Anand\source\repos\Day18\P4\obj\Debug\net8.0\refint\P4.dll
+C:\Users\Aman Anand\source\repos\Day18\P4\obj\Debug\net8.0\P4.pdb
+C:\Users\Aman Anand\source\repos\Day18\P4\obj\Debug\net8.0\P4.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day18\P4\obj\Debug\net8.0\ref\P4.dll

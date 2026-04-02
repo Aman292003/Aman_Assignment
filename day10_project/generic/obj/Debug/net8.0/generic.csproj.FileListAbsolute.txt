@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day10_project\generic\bin\Debug\net8.0\generic.exe
+C:\Users\Aman Anand\source\repos\day10_project\generic\bin\Debug\net8.0\generic.deps.json
+C:\Users\Aman Anand\source\repos\day10_project\generic\bin\Debug\net8.0\generic.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day10_project\generic\bin\Debug\net8.0\generic.dll
+C:\Users\Aman Anand\source\repos\day10_project\generic\bin\Debug\net8.0\generic.pdb
+C:\Users\Aman Anand\source\repos\day10_project\generic\obj\Debug\net8.0\generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day10_project\generic\obj\Debug\net8.0\generic.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day10_project\generic\obj\Debug\net8.0\generic.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day10_project\generic\obj\Debug\net8.0\generic.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day10_project\generic\obj\Debug\net8.0\generic.dll
+C:\Users\Aman Anand\source\repos\day10_project\generic\obj\Debug\net8.0\refint\generic.dll
+C:\Users\Aman Anand\source\repos\day10_project\generic\obj\Debug\net8.0\generic.pdb
+C:\Users\Aman Anand\source\repos\day10_project\generic\obj\Debug\net8.0\generic.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day10_project\generic\obj\Debug\net8.0\ref\generic.dll

@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aman Anand\\source\\repos\\Day36_sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F87BD28D-D4B8-48A7-AE72-AC744EE2BC0E}|INTERFACES\\INTERFACES.csproj|c:\\users\\aman anand\\source\\repos\\day36_sol\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87BD28D-D4B8-48A7-AE72-AC744EE2BC0E}|INTERFACES\\INTERFACES.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\aman anand\\source\\repos\\day36_sol\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B1842D-B8E7-9C03-5802-C6E5F90C3114}|EFDBDEMO\\EFDBDEMO.csproj|c:\\users\\aman anand\\source\\repos\\day36_sol\\efdbdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B1842D-B8E7-9C03-5802-C6E5F90C3114}|EFDBDEMO\\EFDBDEMO.csproj|solutionrelative:efdbdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B1842D-B8E7-9C03-5802-C6E5F90C3114}|EFDBDEMO\\EFDBDEMO.csproj|c:\\users\\aman anand\\source\\repos\\day36_sol\\efdbdemo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B1842D-B8E7-9C03-5802-C6E5F90C3114}|EFDBDEMO\\EFDBDEMO.csproj|solutionrelative:efdbdemo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B1842D-B8E7-9C03-5802-C6E5F90C3114}|EFDBDEMO\\EFDBDEMO.csproj|c:\\users\\aman anand\\source\\repos\\day36_sol\\efdbdemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B1842D-B8E7-9C03-5802-C6E5F90C3114}|EFDBDEMO\\EFDBDEMO.csproj|solutionrelative:efdbdemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B1842D-B8E7-9C03-5802-C6E5F90C3114}|EFDBDEMO\\EFDBDEMO.csproj|c:\\users\\aman anand\\source\\repos\\day36_sol\\efdbdemo\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B1842D-B8E7-9C03-5802-C6E5F90C3114}|EFDBDEMO\\EFDBDEMO.csproj|solutionrelative:efdbdemo\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day36_sol\\INTERFACES\\Program.cs",
+              "RelativeDocumentMoniker": "INTERFACES\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day36_sol\\INTERFACES\\Program.cs*",
+              "RelativeToolTip": "INTERFACES\\Program.cs*",
+              "ViewState": "AgIAAHkAAAAAAAAAAADwv4sAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:38:35.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day36_sol\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day36_sol\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAkwAkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T05:39:27.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day36_sol\\EFDBDEMO\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EFDBDEMO\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day36_sol\\EFDBDEMO\\Models\\Order.cs",
+              "RelativeToolTip": "EFDBDEMO\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T05:00:29.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day36_sol\\EFDBDEMO\\Program.cs",
+              "RelativeDocumentMoniker": "EFDBDEMO\\Program.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day36_sol\\EFDBDEMO\\Program.cs",
+              "RelativeToolTip": "EFDBDEMO\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T05:02:06.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day36_sol\\EFDBDEMO\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "EFDBDEMO\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day36_sol\\EFDBDEMO\\Models\\Customer.cs",
+              "RelativeToolTip": "EFDBDEMO\\Models\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T05:00:08.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NorthWindContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aman Anand\\source\\repos\\Day36_sol\\EFDBDEMO\\Models\\NorthWindContext.cs",
+              "RelativeDocumentMoniker": "EFDBDEMO\\Models\\NorthWindContext.cs",
+              "ToolTip": "C:\\Users\\Aman Anand\\source\\repos\\Day36_sol\\EFDBDEMO\\Models\\NorthWindContext.cs",
+              "RelativeToolTip": "EFDBDEMO\\Models\\NorthWindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T04:47:27.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

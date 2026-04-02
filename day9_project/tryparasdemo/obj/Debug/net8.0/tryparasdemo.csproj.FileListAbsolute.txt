@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day9_project\tryparasdemo\bin\Debug\net8.0\tryparasdemo.exe
+C:\Users\Aman Anand\source\repos\day9_project\tryparasdemo\bin\Debug\net8.0\tryparasdemo.deps.json
+C:\Users\Aman Anand\source\repos\day9_project\tryparasdemo\bin\Debug\net8.0\tryparasdemo.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day9_project\tryparasdemo\bin\Debug\net8.0\tryparasdemo.dll
+C:\Users\Aman Anand\source\repos\day9_project\tryparasdemo\bin\Debug\net8.0\tryparasdemo.pdb
+C:\Users\Aman Anand\source\repos\day9_project\tryparasdemo\obj\Debug\net8.0\tryparasdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day9_project\tryparasdemo\obj\Debug\net8.0\tryparasdemo.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day9_project\tryparasdemo\obj\Debug\net8.0\tryparasdemo.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day9_project\tryparasdemo\obj\Debug\net8.0\tryparasdemo.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day9_project\tryparasdemo\obj\Debug\net8.0\tryparasdemo.dll
+C:\Users\Aman Anand\source\repos\day9_project\tryparasdemo\obj\Debug\net8.0\refint\tryparasdemo.dll
+C:\Users\Aman Anand\source\repos\day9_project\tryparasdemo\obj\Debug\net8.0\tryparasdemo.pdb
+C:\Users\Aman Anand\source\repos\day9_project\tryparasdemo\obj\Debug\net8.0\tryparasdemo.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day9_project\tryparasdemo\obj\Debug\net8.0\ref\tryparasdemo.dll

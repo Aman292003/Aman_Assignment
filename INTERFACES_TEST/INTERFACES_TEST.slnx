@@ -1,0 +1,20 @@
+<Solution>
+  <Project Path="../Library/Library.csproj" Id="98bd3ed5-c536-4e3a-b782-6892469d7652" />
+  <Project Path="book/book.csproj" Id="0387aa74-7e42-4f43-b337-481b5b72519e" />
+  <Project Path="Digital/Digital.csproj" Id="49547df1-28fa-4376-9823-24dea3273e87" />
+  <Project Path="emp/emp.csproj" Id="9a0288a9-a6c3-4cb2-8ec5-0800f0e97396" />
+  <Project Path="Employee/Employee.csproj" Id="80afdf77-b260-4b70-b7a3-7c177a4fd87b" />
+  <Project Path="ENROLL/ENROLL.csproj" Id="8d70aa8d-6846-409d-ad03-0a897f677dcf" />
+  <Project Path="HELLO/HELLO.csproj" Id="865b8bbc-a60f-4ca3-ac06-9a4f6eeff61f" />
+  <Project Path="LibraryMangement/LibraryMangement.csproj" Id="d2f7ea7c-9e4c-40b3-84dc-cec648922861" />
+  <Project Path="Mall/Mall.csproj" Id="f3bb7b58-5e9d-44b8-b186-0a2123772cf0" />
+  <Project Path="MUSIC/MUSIC.csproj" />
+  <Project Path="new/new.csproj" Id="23ab9296-871f-4282-8855-00cb932c2dc0" />
+  <Project Path="newtesr/newtesr.csproj" Id="e0f512af-053e-4d7d-865d-38a09d8fd8b1" />
+  <Project Path="Parking/Parking.csproj" Id="a8402d9b-918b-492c-ad15-0573f4cdae54" />
+  <Project Path="Payment/Payment.csproj" Id="1318c925-f4bf-46d3-9a3f-9d24c2acf094" />
+  <Project Path="PerformanceTracker/PerformanceTracker.csproj" Id="6b7253cc-7a8e-4272-ab04-5db472ae9eb7" />
+  <Project Path="stu/stu.csproj" Id="62614f14-879a-402e-b922-79b9c6fb29e4" />
+  <Project Path="stucourse/stucourse.csproj" Id="542ee17a-ad76-4997-86eb-caf00ed5932f" />
+  <Project Path="traffic/traffic.csproj" Id="38f7ccfa-4130-4a51-a166-24ad5e274f41" />
+</Solution>

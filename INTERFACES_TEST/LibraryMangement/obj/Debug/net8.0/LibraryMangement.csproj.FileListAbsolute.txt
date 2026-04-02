@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\LibraryMangement\bin\Debug\net8.0\LibraryMangement.exe
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\LibraryMangement\bin\Debug\net8.0\LibraryMangement.deps.json
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\LibraryMangement\bin\Debug\net8.0\LibraryMangement.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\LibraryMangement\bin\Debug\net8.0\LibraryMangement.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\LibraryMangement\bin\Debug\net8.0\LibraryMangement.pdb
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\LibraryMangement\obj\Debug\net8.0\LibraryMangement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\LibraryMangement\obj\Debug\net8.0\LibraryMangement.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\LibraryMangement\obj\Debug\net8.0\LibraryMangement.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\LibraryMangement\obj\Debug\net8.0\LibraryMangement.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\LibraryMangement\obj\Debug\net8.0\LibraryMangement.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\LibraryMangement\obj\Debug\net8.0\refint\LibraryMangement.dll
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\LibraryMangement\obj\Debug\net8.0\LibraryMangement.pdb
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\LibraryMangement\obj\Debug\net8.0\LibraryMangement.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\INTERFACES_TEST\LibraryMangement\obj\Debug\net8.0\ref\LibraryMangement.dll

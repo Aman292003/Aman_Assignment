@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day14_project\Linq_to_empobject\bin\Debug\net8.0\Linq_to_empobject.exe
+C:\Users\Aman Anand\source\repos\Day14_project\Linq_to_empobject\bin\Debug\net8.0\Linq_to_empobject.deps.json
+C:\Users\Aman Anand\source\repos\Day14_project\Linq_to_empobject\bin\Debug\net8.0\Linq_to_empobject.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day14_project\Linq_to_empobject\bin\Debug\net8.0\Linq_to_empobject.dll
+C:\Users\Aman Anand\source\repos\Day14_project\Linq_to_empobject\bin\Debug\net8.0\Linq_to_empobject.pdb
+C:\Users\Aman Anand\source\repos\Day14_project\Linq_to_empobject\obj\Debug\net8.0\Linq_to_empobject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day14_project\Linq_to_empobject\obj\Debug\net8.0\Linq_to_empobject.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day14_project\Linq_to_empobject\obj\Debug\net8.0\Linq_to_empobject.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day14_project\Linq_to_empobject\obj\Debug\net8.0\Linq_to_empobject.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day14_project\Linq_to_empobject\obj\Debug\net8.0\Linq_to_empobject.dll
+C:\Users\Aman Anand\source\repos\Day14_project\Linq_to_empobject\obj\Debug\net8.0\refint\Linq_to_empobject.dll
+C:\Users\Aman Anand\source\repos\Day14_project\Linq_to_empobject\obj\Debug\net8.0\Linq_to_empobject.pdb
+C:\Users\Aman Anand\source\repos\Day14_project\Linq_to_empobject\obj\Debug\net8.0\Linq_to_empobject.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day14_project\Linq_to_empobject\obj\Debug\net8.0\ref\Linq_to_empobject.dll

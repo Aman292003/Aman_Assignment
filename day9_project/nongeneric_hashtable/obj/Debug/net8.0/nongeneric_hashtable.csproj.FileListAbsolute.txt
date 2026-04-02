@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day9_project\nongeneric_hashtable\bin\Debug\net8.0\nongeneric_hashtable.exe
+C:\Users\Aman Anand\source\repos\day9_project\nongeneric_hashtable\bin\Debug\net8.0\nongeneric_hashtable.deps.json
+C:\Users\Aman Anand\source\repos\day9_project\nongeneric_hashtable\bin\Debug\net8.0\nongeneric_hashtable.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day9_project\nongeneric_hashtable\bin\Debug\net8.0\nongeneric_hashtable.dll
+C:\Users\Aman Anand\source\repos\day9_project\nongeneric_hashtable\bin\Debug\net8.0\nongeneric_hashtable.pdb
+C:\Users\Aman Anand\source\repos\day9_project\nongeneric_hashtable\obj\Debug\net8.0\nongeneric_hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day9_project\nongeneric_hashtable\obj\Debug\net8.0\nongeneric_hashtable.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day9_project\nongeneric_hashtable\obj\Debug\net8.0\nongeneric_hashtable.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day9_project\nongeneric_hashtable\obj\Debug\net8.0\nongeneric_hashtable.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day9_project\nongeneric_hashtable\obj\Debug\net8.0\nongeneric_hashtable.dll
+C:\Users\Aman Anand\source\repos\day9_project\nongeneric_hashtable\obj\Debug\net8.0\refint\nongeneric_hashtable.dll
+C:\Users\Aman Anand\source\repos\day9_project\nongeneric_hashtable\obj\Debug\net8.0\nongeneric_hashtable.pdb
+C:\Users\Aman Anand\source\repos\day9_project\nongeneric_hashtable\obj\Debug\net8.0\nongeneric_hashtable.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day9_project\nongeneric_hashtable\obj\Debug\net8.0\ref\nongeneric_hashtable.dll

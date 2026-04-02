@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\day10_project\Queue-demo\bin\Debug\net8.0\Queue-demo.exe
+C:\Users\Aman Anand\source\repos\day10_project\Queue-demo\bin\Debug\net8.0\Queue-demo.deps.json
+C:\Users\Aman Anand\source\repos\day10_project\Queue-demo\bin\Debug\net8.0\Queue-demo.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\day10_project\Queue-demo\bin\Debug\net8.0\Queue-demo.dll
+C:\Users\Aman Anand\source\repos\day10_project\Queue-demo\bin\Debug\net8.0\Queue-demo.pdb
+C:\Users\Aman Anand\source\repos\day10_project\Queue-demo\obj\Debug\net8.0\Queue-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\day10_project\Queue-demo\obj\Debug\net8.0\Queue-demo.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\day10_project\Queue-demo\obj\Debug\net8.0\Queue-demo.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\day10_project\Queue-demo\obj\Debug\net8.0\Queue-demo.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\day10_project\Queue-demo\obj\Debug\net8.0\Queue-demo.dll
+C:\Users\Aman Anand\source\repos\day10_project\Queue-demo\obj\Debug\net8.0\refint\Queue-demo.dll
+C:\Users\Aman Anand\source\repos\day10_project\Queue-demo\obj\Debug\net8.0\Queue-demo.pdb
+C:\Users\Aman Anand\source\repos\day10_project\Queue-demo\obj\Debug\net8.0\Queue-demo.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\day10_project\Queue-demo\obj\Debug\net8.0\ref\Queue-demo.dll

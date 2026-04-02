@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day26_sol\rec\bin\Debug\net8.0\rec.exe
+C:\Users\Aman Anand\source\repos\Day26_sol\rec\bin\Debug\net8.0\rec.deps.json
+C:\Users\Aman Anand\source\repos\Day26_sol\rec\bin\Debug\net8.0\rec.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day26_sol\rec\bin\Debug\net8.0\rec.dll
+C:\Users\Aman Anand\source\repos\Day26_sol\rec\bin\Debug\net8.0\rec.pdb
+C:\Users\Aman Anand\source\repos\Day26_sol\rec\obj\Debug\net8.0\rec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day26_sol\rec\obj\Debug\net8.0\rec.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day26_sol\rec\obj\Debug\net8.0\rec.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day26_sol\rec\obj\Debug\net8.0\rec.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day26_sol\rec\obj\Debug\net8.0\rec.dll
+C:\Users\Aman Anand\source\repos\Day26_sol\rec\obj\Debug\net8.0\refint\rec.dll
+C:\Users\Aman Anand\source\repos\Day26_sol\rec\obj\Debug\net8.0\rec.pdb
+C:\Users\Aman Anand\source\repos\Day26_sol\rec\obj\Debug\net8.0\rec.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day26_sol\rec\obj\Debug\net8.0\ref\rec.dll

@@ -1,0 +1,14 @@
+C:\Users\Aman Anand\source\repos\Day16_Sol\PatternMatch\bin\Debug\net8.0\PatternMatch.exe
+C:\Users\Aman Anand\source\repos\Day16_Sol\PatternMatch\bin\Debug\net8.0\PatternMatch.deps.json
+C:\Users\Aman Anand\source\repos\Day16_Sol\PatternMatch\bin\Debug\net8.0\PatternMatch.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Day16_Sol\PatternMatch\bin\Debug\net8.0\PatternMatch.dll
+C:\Users\Aman Anand\source\repos\Day16_Sol\PatternMatch\bin\Debug\net8.0\PatternMatch.pdb
+C:\Users\Aman Anand\source\repos\Day16_Sol\PatternMatch\obj\Debug\net8.0\PatternMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman Anand\source\repos\Day16_Sol\PatternMatch\obj\Debug\net8.0\PatternMatch.AssemblyInfoInputs.cache
+C:\Users\Aman Anand\source\repos\Day16_Sol\PatternMatch\obj\Debug\net8.0\PatternMatch.AssemblyInfo.cs
+C:\Users\Aman Anand\source\repos\Day16_Sol\PatternMatch\obj\Debug\net8.0\PatternMatch.csproj.CoreCompileInputs.cache
+C:\Users\Aman Anand\source\repos\Day16_Sol\PatternMatch\obj\Debug\net8.0\PatternMatch.dll
+C:\Users\Aman Anand\source\repos\Day16_Sol\PatternMatch\obj\Debug\net8.0\refint\PatternMatch.dll
+C:\Users\Aman Anand\source\repos\Day16_Sol\PatternMatch\obj\Debug\net8.0\PatternMatch.pdb
+C:\Users\Aman Anand\source\repos\Day16_Sol\PatternMatch\obj\Debug\net8.0\PatternMatch.genruntimeconfig.cache
+C:\Users\Aman Anand\source\repos\Day16_Sol\PatternMatch\obj\Debug\net8.0\ref\PatternMatch.dll

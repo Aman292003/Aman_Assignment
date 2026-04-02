@@ -1,0 +1,31 @@
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace CodeFirsrEF.Models
+{
+    public class EventContext : DbContext
+    {
+        public EventContext(DbContextOptions dbContextOptions) : base(dbContextOptions)
+        {
+        }
+        public DbSet<Author> authors { set; get; }
+        public DbSet<Course> courses { set; get; }
+
+        public DbSet<Student> students { set; get; }
+
+        public DbSet<Author1> authors1 { set; get; }
+
+        public DbSet<Course1> courses1 { set; get; }
+
+        public DbSet<Employee> employees { set; get; }
+
+        public DbSet<UserDetail> userdetails { set; get; }
+
+        public DbSet<Customer> customers { set; get; }
+
+        public DbSet<Product> products { set; get; }
+
+        public DbSet<Post> posts { set; get; }
+
+
+    }
+}

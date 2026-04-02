@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "xhLh9vK7sds=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Aman Anand\\source\\repos\\Day30_Solution\\MSTEST\\MSTEST.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  MSTEST -> MSTest (>= 4.0.1).",
+      "projectPath": "C:\\Users\\Aman Anand\\source\\repos\\Day30_Solution\\MSTEST\\MSTEST.csproj",
+      "filePath": "C:\\Users\\Aman Anand\\source\\repos\\Day30_Solution\\MSTEST\\MSTEST.csproj",
+      "libraryId": "MSTest",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
