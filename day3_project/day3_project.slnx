@@ -1,7 +1,0 @@
-<Solution>
-  <Project Path="call_by_value _ref/call_by_value _ref.csproj" />
-  <Project Path="ConsoleDemo/ConsoleDemo.csproj" />
-  <Project Path="Cube_find/Cube_find.csproj" />
-  <Project Path="Middleware_demo/Middleware_demo.csproj" />
-  <Project Path="ref_out/ref_out.csproj" />
-</Solution>

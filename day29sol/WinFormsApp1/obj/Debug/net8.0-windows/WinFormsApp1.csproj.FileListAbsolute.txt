@@ -1,6 +1,0 @@
-C:\Users\Aman Anand\source\repos\day29sol\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
-C:\Users\Aman Anand\source\repos\day29sol\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
-C:\Users\Aman Anand\source\repos\day29sol\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Aman Anand\source\repos\day29sol\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
-C:\Users\Aman Anand\source\repos\day29sol\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
-C:\Users\Aman Anand\source\repos\day29sol\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache

@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="../Linq/Linq.csproj" />
-  <Project Path="Exception/Exception.csproj" Id="991d60ed-bde3-427c-8ee9-4555ae9e722c" />
-  <Project Path="Exception1/Exception1.csproj" Id="d9c30d5d-6563-41a1-9a2d-dc6c7687d090" />
-  <Project Path="LinqDemo/LinqDemo.csproj" />
-</Solution>

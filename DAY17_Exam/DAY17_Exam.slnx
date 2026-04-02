@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="BigSum/BigSum.csproj" />
-  <Project Path="DAY17_Exam/ValidatePlate.csproj" />
-  <Project Path="FindLongestIncreasing/FindLongestIncreasing.csproj" />
-</Solution>
