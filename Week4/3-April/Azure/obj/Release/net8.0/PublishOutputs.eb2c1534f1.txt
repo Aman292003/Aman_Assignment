@@ -1,0 +1,7 @@
+C:\Users\Aman Anand\source\repos\Week4\3-April\Azure\obj\Release\net8.0\PubTmp\Out\Azure.exe
+C:\Users\Aman Anand\source\repos\Week4\3-April\Azure\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Aman Anand\source\repos\Week4\3-April\Azure\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Aman Anand\source\repos\Week4\3-April\Azure\obj\Release\net8.0\PubTmp\Out\Azure.dll
+C:\Users\Aman Anand\source\repos\Week4\3-April\Azure\obj\Release\net8.0\PubTmp\Out\Azure.deps.json
+C:\Users\Aman Anand\source\repos\Week4\3-April\Azure\obj\Release\net8.0\PubTmp\Out\Azure.runtimeconfig.json
+C:\Users\Aman Anand\source\repos\Week4\3-April\Azure\obj\Release\net8.0\PubTmp\Out\Azure.pdb
