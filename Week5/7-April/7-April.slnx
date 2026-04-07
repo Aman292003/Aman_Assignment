@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="MvcFrontend/MvcFrontend.csproj" Id="9293de17-1c8a-4308-a9ae-8dee5d93f72f" />
   <Project Path="WebApplication1/WebApplication1.csproj" Id="dcdf4786-7ac0-434b-83a6-6e784ae65020" />
 </Solution>

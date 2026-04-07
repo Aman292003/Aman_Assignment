@@ -1,0 +1,1000 @@
+@{
+    ViewData["Title"] = "Product Studio";
+}
+
+<style>
+    @@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap');
+
+    :root {
+        --bg: #0b1020;
+        --panel: rgba(11, 16, 32, 0.72);
+        --panel-strong: rgba(15, 23, 42, 0.92);
+        --panel-soft: rgba(255, 255, 255, 0.08);
+        --line: rgba(255, 255, 255, 0.12);
+        --text: #ebf2ff;
+        --muted: #9fb0d6;
+        --accent: #6ee7b7;
+        --accent-2: #60a5fa;
+        --accent-3: #f59e0b;
+        --danger: #fb7185;
+        --success: #34d399;
+        --shadow: 0 24px 80px rgba(0, 0, 0, 0.35);
+        --radius-xl: 28px;
+        --radius-lg: 20px;
+        --radius-md: 14px;
+    }
+
+    body {
+        font-family: "Manrope", "Segoe UI", sans-serif;
+        background:
+            radial-gradient(circle at top left, rgba(96, 165, 250, 0.30), transparent 30%),
+            radial-gradient(circle at top right, rgba(110, 231, 183, 0.18), transparent 24%),
+            radial-gradient(circle at bottom left, rgba(245, 158, 11, 0.18), transparent 22%),
+            linear-gradient(135deg, #050816 0%, #0b1020 40%, #121b33 100%);
+        color: var(--text);
+        min-height: 100vh;
+    }
+
+    main.pb-3 {
+        padding-bottom: 3rem !important;
+    }
+
+    .product-shell {
+        width: min(1180px, 100%);
+        margin: 0 auto;
+        padding: 1.25rem 0 2rem;
+    }
+
+    .hero {
+        position: relative;
+        overflow: hidden;
+        padding: 2rem;
+        border: 1px solid var(--line);
+        border-radius: var(--radius-xl);
+        background:
+            linear-gradient(135deg, rgba(96, 165, 250, 0.16), rgba(110, 231, 183, 0.10)),
+            var(--panel);
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(22px);
+    }
+
+    .hero::after {
+        content: "";
+        position: absolute;
+        inset: auto -8% -45% auto;
+        width: 280px;
+        height: 280px;
+        border-radius: 50%;
+        background: radial-gradient(circle, rgba(110, 231, 183, 0.28), transparent 62%);
+        pointer-events: none;
+    }
+
+    .hero-grid {
+        display: grid;
+        grid-template-columns: 1.3fr 0.9fr;
+        gap: 1.5rem;
+        align-items: end;
+    }
+
+    .eyebrow {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.45rem 0.8rem;
+        border-radius: 999px;
+        border: 1px solid rgba(110, 231, 183, 0.28);
+        background: rgba(110, 231, 183, 0.10);
+        color: #c8ffe9;
+        font-size: 0.82rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+    }
+
+    .eyebrow::before {
+        content: "";
+        width: 9px;
+        height: 9px;
+        border-radius: 50%;
+        background: var(--accent);
+        box-shadow: 0 0 0 6px rgba(110, 231, 183, 0.14);
+    }
+
+    .hero h1 {
+        margin: 1rem 0 0.6rem;
+        font-family: "Space Grotesk", "Segoe UI", sans-serif;
+        font-size: clamp(2.1rem, 4vw, 3.7rem);
+        line-height: 0.95;
+        letter-spacing: -0.05em;
+    }
+
+    .hero p {
+        max-width: 52rem;
+        margin: 0;
+        color: var(--muted);
+        font-size: 1rem;
+        line-height: 1.7;
+    }
+
+    .hero-note {
+        display: flex;
+        justify-content: flex-end;
+        align-items: flex-end;
+    }
+
+    .hero-card {
+        width: 100%;
+        padding: 1.15rem;
+        border-radius: var(--radius-lg);
+        border: 1px solid rgba(255, 255, 255, 0.10);
+        background: rgba(255, 255, 255, 0.05);
+    }
+
+    .hero-card-label {
+        color: var(--muted);
+        font-size: 0.88rem;
+        margin-bottom: 0.6rem;
+    }
+
+    .hero-card strong {
+        display: block;
+        font-size: 1.75rem;
+        font-family: "Space Grotesk", "Segoe UI", sans-serif;
+        letter-spacing: -0.04em;
+    }
+
+    .hero-card span {
+        display: block;
+        margin-top: 0.45rem;
+        color: #dce7ff;
+        line-height: 1.6;
+    }
+
+    .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1rem;
+        margin-top: 1.35rem;
+    }
+
+    .stat-card {
+        padding: 1.2rem;
+        border-radius: var(--radius-lg);
+        border: 1px solid var(--line);
+        background: rgba(255, 255, 255, 0.05);
+    }
+
+    .stat-label {
+        display: block;
+        margin-bottom: 0.45rem;
+        color: var(--muted);
+        font-size: 0.88rem;
+    }
+
+    .stat-value {
+        font-size: 1.7rem;
+        font-weight: 800;
+        font-family: "Space Grotesk", "Segoe UI", sans-serif;
+        letter-spacing: -0.04em;
+    }
+
+    .studio-grid {
+        display: grid;
+        grid-template-columns: 380px 1fr;
+        gap: 1.25rem;
+        margin-top: 1.35rem;
+        align-items: start;
+    }
+
+    .panel {
+        border: 1px solid var(--line);
+        border-radius: var(--radius-xl);
+        background: var(--panel-strong);
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(18px);
+    }
+
+    .composer {
+        position: sticky;
+        top: 1.15rem;
+        padding: 1.45rem;
+    }
+
+    .section-title {
+        margin: 0;
+        font-family: "Space Grotesk", "Segoe UI", sans-serif;
+        font-size: 1.4rem;
+        letter-spacing: -0.03em;
+    }
+
+    .section-copy {
+        margin: 0.45rem 0 1.2rem;
+        color: var(--muted);
+        line-height: 1.65;
+        font-size: 0.95rem;
+    }
+
+    .field-grid {
+        display: grid;
+        gap: 0.95rem;
+    }
+
+    .field-group label {
+        display: block;
+        margin-bottom: 0.45rem;
+        color: #d9e6ff;
+        font-size: 0.9rem;
+        font-weight: 700;
+    }
+
+    .field-group input {
+        width: 100%;
+        border: 1px solid rgba(255, 255, 255, 0.12);
+        border-radius: 14px;
+        background: rgba(255, 255, 255, 0.05);
+        color: var(--text);
+        padding: 0.95rem 1rem;
+        outline: none;
+        transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .field-group input::placeholder {
+        color: rgba(235, 242, 255, 0.42);
+    }
+
+    .field-group input:focus {
+        border-color: rgba(96, 165, 250, 0.62);
+        box-shadow: 0 0 0 4px rgba(96, 165, 250, 0.14);
+        transform: translateY(-1px);
+    }
+
+    .inline-fields {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0.95rem;
+    }
+
+    .action-row {
+        display: flex;
+        gap: 0.8rem;
+        margin-top: 1.15rem;
+    }
+
+    .btn-main,
+    .btn-soft,
+    .btn-ghost,
+    .btn-danger {
+        border: 0;
+        border-radius: 14px;
+        padding: 0.92rem 1.1rem;
+        font-weight: 800;
+        cursor: pointer;
+        transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease;
+    }
+
+    .btn-main:hover,
+    .btn-soft:hover,
+    .btn-ghost:hover,
+    .btn-danger:hover {
+        transform: translateY(-1px);
+    }
+
+    .btn-main {
+        flex: 1;
+        background: linear-gradient(135deg, var(--accent-2), #8b5cf6);
+        color: white;
+        box-shadow: 0 16px 32px rgba(96, 165, 250, 0.20);
+    }
+
+    .btn-soft {
+        background: rgba(255, 255, 255, 0.08);
+        color: var(--text);
+        border: 1px solid rgba(255, 255, 255, 0.10);
+    }
+
+    .btn-ghost {
+        background: rgba(110, 231, 183, 0.10);
+        color: #c8ffe9;
+        border: 1px solid rgba(110, 231, 183, 0.18);
+    }
+
+    .btn-danger {
+        background: rgba(251, 113, 133, 0.12);
+        color: #ffc1cb;
+        border: 1px solid rgba(251, 113, 133, 0.22);
+    }
+
+    .message-box {
+        min-height: 52px;
+        margin-top: 1rem;
+        padding: 0.95rem 1rem;
+        border-radius: 16px;
+        border: 1px dashed rgba(255, 255, 255, 0.10);
+        background: rgba(255, 255, 255, 0.04);
+        color: var(--muted);
+        line-height: 1.6;
+    }
+
+    .message-box.is-success {
+        border-style: solid;
+        border-color: rgba(52, 211, 153, 0.28);
+        color: #caffeb;
+        background: rgba(52, 211, 153, 0.10);
+    }
+
+    .message-box.is-error {
+        border-style: solid;
+        border-color: rgba(251, 113, 133, 0.28);
+        color: #ffd7df;
+        background: rgba(251, 113, 133, 0.10);
+    }
+
+    .message-box.is-info {
+        border-style: solid;
+        border-color: rgba(96, 165, 250, 0.28);
+        color: #d9ebff;
+        background: rgba(96, 165, 250, 0.10);
+    }
+
+    .inventory {
+        padding: 1.45rem;
+    }
+
+    .toolbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .toolbar-left {
+        display: flex;
+        align-items: center;
+        gap: 0.8rem;
+        flex: 1;
+    }
+
+    .search-shell {
+        flex: 1;
+        position: relative;
+    }
+
+    .search-shell input {
+        width: 100%;
+        border: 1px solid rgba(255, 255, 255, 0.12);
+        border-radius: 999px;
+        background: rgba(255, 255, 255, 0.05);
+        color: var(--text);
+        padding: 0.92rem 1.15rem;
+        outline: none;
+    }
+
+    .search-shell input::placeholder {
+        color: rgba(235, 242, 255, 0.42);
+    }
+
+    .toolbar-right {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+    }
+
+    .count-pill {
+        padding: 0.75rem 1rem;
+        border-radius: 999px;
+        background: rgba(255, 255, 255, 0.06);
+        border: 1px solid rgba(255, 255, 255, 0.10);
+        color: #dce7ff;
+        font-weight: 700;
+        white-space: nowrap;
+    }
+
+    .table-wrap {
+        overflow: hidden;
+        border-radius: 18px;
+        border: 1px solid rgba(255, 255, 255, 0.10);
+        background: rgba(255, 255, 255, 0.03);
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    thead th {
+        padding: 1rem 1.1rem;
+        background: rgba(255, 255, 255, 0.06);
+        color: #c9d7f4;
+        font-size: 0.8rem;
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+    }
+
+    tbody td {
+        padding: 1rem 1.1rem;
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+        color: #edf3ff;
+        vertical-align: middle;
+    }
+
+    tbody tr {
+        transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    tbody tr:hover {
+        background: rgba(96, 165, 250, 0.06);
+    }
+
+    .name-cell strong {
+        display: block;
+        font-size: 1rem;
+    }
+
+    .name-cell span {
+        color: var(--muted);
+        font-size: 0.85rem;
+    }
+
+    .category-badge {
+        display: inline-flex;
+        align-items: center;
+        padding: 0.4rem 0.7rem;
+        border-radius: 999px;
+        background: rgba(245, 158, 11, 0.12);
+        color: #ffd78d;
+        border: 1px solid rgba(245, 158, 11, 0.22);
+        font-size: 0.82rem;
+        font-weight: 700;
+    }
+
+    .stock-pill {
+        display: inline-flex;
+        align-items: center;
+        padding: 0.42rem 0.72rem;
+        border-radius: 999px;
+        font-size: 0.82rem;
+        font-weight: 700;
+    }
+
+    .stock-pill.in {
+        background: rgba(52, 211, 153, 0.10);
+        color: #caffeb;
+        border: 1px solid rgba(52, 211, 153, 0.22);
+    }
+
+    .stock-pill.low {
+        background: rgba(245, 158, 11, 0.12);
+        color: #ffd78d;
+        border: 1px solid rgba(245, 158, 11, 0.22);
+    }
+
+    .table-actions {
+        display: flex;
+        gap: 0.55rem;
+        justify-content: flex-end;
+        flex-wrap: wrap;
+    }
+
+    .cards-grid {
+        display: none;
+        gap: 0.9rem;
+        margin-top: 1rem;
+    }
+
+    .product-card {
+        padding: 1rem;
+        border-radius: 18px;
+        border: 1px solid rgba(255, 255, 255, 0.10);
+        background: rgba(255, 255, 255, 0.04);
+    }
+
+    .product-card-top {
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+        align-items: start;
+        margin-bottom: 0.85rem;
+    }
+
+    .product-card h4 {
+        margin: 0 0 0.25rem;
+        font-size: 1.05rem;
+        font-family: "Space Grotesk", "Segoe UI", sans-serif;
+    }
+
+    .product-card p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 0.92rem;
+    }
+
+    .product-meta {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.8rem;
+        margin: 0.95rem 0;
+    }
+
+    .meta-box {
+        padding: 0.8rem;
+        border-radius: 14px;
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .meta-box span {
+        display: block;
+        color: var(--muted);
+        font-size: 0.78rem;
+        margin-bottom: 0.25rem;
+    }
+
+    .meta-box strong {
+        font-size: 1rem;
+    }
+
+    .card-actions {
+        display: flex;
+        gap: 0.7rem;
+    }
+
+    .empty-state {
+        padding: 2rem;
+        border-radius: 18px;
+        text-align: center;
+        border: 1px dashed rgba(255, 255, 255, 0.14);
+        background: rgba(255, 255, 255, 0.03);
+        color: var(--muted);
+    }
+
+    .empty-state strong {
+        display: block;
+        margin-bottom: 0.45rem;
+        color: var(--text);
+        font-size: 1.1rem;
+    }
+
+    @@media (max-width: 991px) {
+        .hero-grid,
+        .studio-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .composer {
+            position: static;
+        }
+    }
+
+    @@media (max-width: 767px) {
+        .product-shell {
+            padding-top: 0.5rem;
+        }
+
+        .hero,
+        .composer,
+        .inventory {
+            padding: 1.2rem;
+        }
+
+        .stats-grid,
+        .inline-fields,
+        .product-meta {
+            grid-template-columns: 1fr;
+        }
+
+        .toolbar {
+            flex-direction: column;
+            align-items: stretch;
+        }
+
+        .toolbar-left,
+        .toolbar-right,
+        .action-row,
+        .card-actions {
+            flex-direction: column;
+        }
+
+        .table-wrap {
+            display: none;
+        }
+
+        .cards-grid {
+            display: grid;
+        }
+    }
+</style>
+
+<div class="product-shell">
+    <section class="hero">
+        <div class="hero-grid">
+            <div>
+                <span class="eyebrow">Live Product Workspace</span>
+                <h1>Build, refine, and track products in one sleek view.</h1>
+                <p>
+                    This dashboard lets you create, update, search, and manage inventory from your MVC frontend while your API does the heavy lifting behind the scenes.
+                </p>
+            </div>
+            <div class="hero-note">
+                <div class="hero-card">
+                    <div class="hero-card-label">Current mode</div>
+                    <strong id="modeLabel">Create Product</strong>
+                    <span id="heroHint">Add a new item on the left, then watch the inventory update instantly.</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <span class="stat-label">Products</span>
+                <div class="stat-value" id="productCount">0</div>
+            </div>
+            <div class="stat-card">
+                <span class="stat-label">Units In Stock</span>
+                <div class="stat-value" id="totalStock">0</div>
+            </div>
+            <div class="stat-card">
+                <span class="stat-label">Inventory Value</span>
+                <div class="stat-value" id="inventoryValue">$0.00</div>
+            </div>
+        </div>
+    </section>
+
+    <section class="studio-grid">
+        <aside class="panel composer">
+            <input type="hidden" id="productId" />
+
+            <h2 class="section-title">Product Composer</h2>
+            <p class="section-copy">
+                Keep the form simple, accurate, and readable. Use edit mode to update an existing product without leaving the page.
+            </p>
+
+            <div class="field-grid">
+                <div class="field-group">
+                    <label for="name">Product Name</label>
+                    <input type="text" id="name" placeholder="Example: Wireless Mouse" />
+                </div>
+
+                <div class="field-group">
+                    <label for="category">Category</label>
+                    <input type="text" id="category" placeholder="Example: Electronics" />
+                </div>
+
+                <div class="inline-fields">
+                    <div class="field-group">
+                        <label for="price">Price</label>
+                        <input type="number" id="price" placeholder="0.00" step="0.01" min="0" />
+                    </div>
+
+                    <div class="field-group">
+                        <label for="stock">Stock</label>
+                        <input type="number" id="stock" placeholder="0" min="0" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="action-row">
+                <button id="saveButton" class="btn-main" type="button" onclick="saveProduct()">Save Product</button>
+                <button class="btn-soft" type="button" onclick="clearForm()">Clear</button>
+            </div>
+
+            <div id="message" class="message-box">
+                Start by adding your first product or choose Edit from the inventory list.
+            </div>
+        </aside>
+
+        <div class="panel inventory">
+            <div class="toolbar">
+                <div class="toolbar-left">
+                    <div class="search-shell">
+                        <input type="text" id="searchInput" placeholder="Search by name or category" oninput="filterProducts()" />
+                    </div>
+                </div>
+                <div class="toolbar-right">
+                    <div class="count-pill" id="resultCount">0 items</div>
+                    <button class="btn-ghost" type="button" onclick="loadProducts()">Refresh</button>
+                </div>
+            </div>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Product</th>
+                            <th>Category</th>
+                            <th>Price</th>
+                            <th>Stock</th>
+                            <th style="text-align:right;">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="productTableBody"></tbody>
+                </table>
+            </div>
+
+            <div class="cards-grid" id="productCards"></div>
+        </div>
+    </section>
+</div>
+
+<script>
+    const apiUrl = "https://productapi-fua7btd6b4d4fzcy.centralindia-01.azurewebsites.net/api/Product";
+
+    let allProducts = [];
+    let editingProductId = null;
+
+    const currencyFormatter = new Intl.NumberFormat("en-US", {
+        style: "currency",
+        currency: "USD"
+    });
+
+    async function loadProducts() {
+        try {
+            const response = await fetch(apiUrl);
+
+            if (!response.ok) {
+                throw new Error(await getErrorMessage(response, "Failed to load products"));
+            }
+
+            allProducts = await response.json();
+            filterProducts();
+            updateStats(allProducts);
+            setMessage("Inventory synced successfully.", "success");
+        } catch (error) {
+            renderProducts([]);
+            updateStats([]);
+            setMessage(getFriendlyError(error, "load products"), "error");
+        }
+    }
+
+    function filterProducts() {
+        const query = document.getElementById("searchInput").value.trim().toLowerCase();
+
+        const filteredProducts = allProducts.filter(product =>
+            product.name.toLowerCase().includes(query) ||
+            product.category.toLowerCase().includes(query));
+
+        renderProducts(filteredProducts);
+        document.getElementById("resultCount").innerText = `${filteredProducts.length} item${filteredProducts.length === 1 ? "" : "s"}`;
+    }
+
+    function renderProducts(products) {
+        renderTable(products);
+        renderCards(products);
+    }
+
+    function renderTable(products) {
+        const tableBody = document.getElementById("productTableBody");
+
+        if (products.length === 0) {
+            tableBody.innerHTML = `
+                <tr>
+                    <td colspan="5">
+                        <div class="empty-state">
+                            <strong>No products found</strong>
+                            Add a product or adjust your search to see results here.
+                        </div>
+                    </td>
+                </tr>`;
+            return;
+        }
+
+        tableBody.innerHTML = products.map(product => `
+            <tr>
+                <td class="name-cell">
+                    <strong>${escapeHtml(product.name)}</strong>
+                    <span>ID ${product.id}</span>
+                </td>
+                <td><span class="category-badge">${escapeHtml(product.category)}</span></td>
+                <td>${currencyFormatter.format(product.price)}</td>
+                <td><span class="stock-pill ${getStockClass(product.stock)}">${product.stock} units</span></td>
+                <td>
+                    <div class="table-actions">
+                        <button class="btn-ghost" type="button" onclick="editProduct(${product.id})">Edit</button>
+                        <button class="btn-danger" type="button" onclick="deleteProduct(${product.id})">Delete</button>
+                    </div>
+                </td>
+            </tr>
+        `).join("");
+    }
+
+    function renderCards(products) {
+        const cards = document.getElementById("productCards");
+
+        if (products.length === 0) {
+            cards.innerHTML = `
+                <div class="empty-state">
+                    <strong>No products found</strong>
+                    Add a product or adjust your search to see results here.
+                </div>`;
+            return;
+        }
+
+        cards.innerHTML = products.map(product => `
+            <div class="product-card">
+                <div class="product-card-top">
+                    <div>
+                        <h4>${escapeHtml(product.name)}</h4>
+                        <p>ID ${product.id}</p>
+                    </div>
+                    <span class="category-badge">${escapeHtml(product.category)}</span>
+                </div>
+                <div class="product-meta">
+                    <div class="meta-box">
+                        <span>Price</span>
+                        <strong>${currencyFormatter.format(product.price)}</strong>
+                    </div>
+                    <div class="meta-box">
+                        <span>Stock</span>
+                        <strong>${product.stock} units</strong>
+                    </div>
+                </div>
+                <div class="card-actions">
+                    <button class="btn-ghost" type="button" onclick="editProduct(${product.id})">Edit</button>
+                    <button class="btn-danger" type="button" onclick="deleteProduct(${product.id})">Delete</button>
+                </div>
+            </div>
+        `).join("");
+    }
+
+    function updateStats(products) {
+        const totalStock = products.reduce((sum, product) => sum + Number(product.stock), 0);
+        const inventoryValue = products.reduce((sum, product) => sum + (Number(product.price) * Number(product.stock)), 0);
+
+        document.getElementById("productCount").innerText = products.length;
+        document.getElementById("totalStock").innerText = totalStock;
+        document.getElementById("inventoryValue").innerText = currencyFormatter.format(inventoryValue);
+    }
+
+    async function saveProduct() {
+        const product = {
+            name: document.getElementById("name").value.trim(),
+            category: document.getElementById("category").value.trim(),
+            price: Number(document.getElementById("price").value),
+            stock: Number(document.getElementById("stock").value)
+        };
+
+        if (!product.name || !product.category || Number.isNaN(product.price) || Number.isNaN(product.stock)) {
+            setMessage("Please fill all fields with valid values before saving.", "error");
+            return;
+        }
+
+        try {
+            const isEditing = editingProductId !== null;
+            const response = await fetch(isEditing ? `${apiUrl}/${editingProductId}` : apiUrl, {
+                method: isEditing ? "PUT" : "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(product)
+            });
+
+            if (!response.ok) {
+                throw new Error(await getErrorMessage(response, "Save failed"));
+            }
+
+            clearForm(false);
+            await loadProducts();
+            setMessage(isEditing ? "Product updated successfully." : "Product created successfully.", "success");
+        } catch (error) {
+            setMessage(getFriendlyError(error, "save product"), "error");
+        }
+    }
+
+    function editProduct(id) {
+        const product = allProducts.find(item => item.id === id);
+
+        if (!product) {
+            setMessage("The selected product could not be found in the current list.", "error");
+            return;
+        }
+
+        editingProductId = product.id;
+        document.getElementById("productId").value = product.id;
+        document.getElementById("name").value = product.name;
+        document.getElementById("category").value = product.category;
+        document.getElementById("price").value = product.price;
+        document.getElementById("stock").value = product.stock;
+        document.getElementById("saveButton").innerText = "Update Product";
+        document.getElementById("modeLabel").innerText = "Edit Product";
+        document.getElementById("heroHint").innerText = `You are editing product ID ${product.id}. Update the fields and save your changes.`;
+        setMessage(`Editing "${product.name}".`, "info");
+        window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+
+    async function deleteProduct(id) {
+        const selectedProduct = allProducts.find(item => item.id === id);
+        const productName = selectedProduct ? selectedProduct.name : "this product";
+
+        if (!confirm(`Delete ${productName}?`)) {
+            return;
+        }
+
+        try {
+            const response = await fetch(`${apiUrl}/${id}`, {
+                method: "DELETE"
+            });
+
+            if (!response.ok) {
+                throw new Error(await getErrorMessage(response, "Delete failed"));
+            }
+
+            if (editingProductId === id) {
+                clearForm(false);
+            }
+
+            await loadProducts();
+            setMessage("Product deleted successfully.", "success");
+        } catch (error) {
+            setMessage(getFriendlyError(error, "delete product"), "error");
+        }
+    }
+
+    function clearForm(showInfo = true) {
+        editingProductId = null;
+        document.getElementById("productId").value = "";
+        document.getElementById("name").value = "";
+        document.getElementById("category").value = "";
+        document.getElementById("price").value = "";
+        document.getElementById("stock").value = "";
+        document.getElementById("saveButton").innerText = "Save Product";
+        document.getElementById("modeLabel").innerText = "Create Product";
+        document.getElementById("heroHint").innerText = "Add a new item on the left, then watch the inventory update instantly.";
+
+        if (showInfo) {
+            setMessage("Form cleared. Ready for a new product.", "info");
+        }
+    }
+
+    function setMessage(message, type) {
+        const messageBox = document.getElementById("message");
+        messageBox.innerText = message;
+        messageBox.className = "message-box";
+
+        if (type === "success") {
+            messageBox.classList.add("is-success");
+            return;
+        }
+
+        if (type === "error") {
+            messageBox.classList.add("is-error");
+            return;
+        }
+
+        if (type === "info") {
+            messageBox.classList.add("is-info");
+        }
+    }
+
+    function getStockClass(stock) {
+        return Number(stock) > 10 ? "in" : "low";
+    }
+
+    async function getErrorMessage(response, fallbackMessage) {
+        try {
+            const text = await response.text();
+            return text || fallbackMessage;
+        } catch {
+            return fallbackMessage;
+        }
+    }
+
+    function getFriendlyError(error, action) {
+        if (error instanceof TypeError) {
+            return `Could not ${action}. Make sure the API is running and the current frontend/API protocol match.`;
+        }
+
+        return error.message;
+    }
+
+    function escapeHtml(value) {
+        return String(value)
+            .replaceAll("&", "&amp;")
+            .replaceAll("<", "&lt;")
+            .replaceAll(">", "&gt;")
+            .replaceAll('"', "&quot;")
+            .replaceAll("'", "&#39;");
+    }
+
+    loadProducts();
+</script>

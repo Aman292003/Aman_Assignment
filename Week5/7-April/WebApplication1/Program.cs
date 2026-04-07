@@ -19,6 +19,20 @@ namespace WebApplication1
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowMvcFrontend", policy =>
+                {
+                    policy.WithOrigins(
+                        "https://localhost:7129",
+                        "http://localhost:5251",
+                        "https://localhost:44370",
+                        "https://mvcfrontend20260407170404-esewbvdzhbhjged5.centralindia-01.azurewebsites.net",
+                        "http://localhost:25091")
+                    .AllowAnyHeader()
+                    .AllowAnyMethod();
+                });
+            });
 
             var app = builder.Build();
 
@@ -40,8 +54,8 @@ namespace WebApplication1
 
             app.UseHttpsRedirection();
 
+            app.UseCors("AllowMvcFrontend");
             app.UseAuthorization();
-
 
             app.MapControllers();
 

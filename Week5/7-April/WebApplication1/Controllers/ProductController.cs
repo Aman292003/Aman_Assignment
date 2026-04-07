@@ -39,7 +39,7 @@ namespace WebApplication1.Controllers
 
         // ✅ Create Product
         [HttpPost]
-        public async Task<IActionResult> CreateProduct(Product product)
+        public async Task<IActionResult> CreateProduct([FromBody] Product product)
         {
             var createdProduct = await _productService.CreateProductAsync(product);
             return Ok(createdProduct);
@@ -47,7 +47,7 @@ namespace WebApplication1.Controllers
 
         // ✅ Update Product
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateProduct(int id, Product product)
+        public async Task<IActionResult> UpdateProduct(int id, [FromBody] Product product)
         {
             var updatedProduct = await _productService.UpdateProductAsync(id, product);
 

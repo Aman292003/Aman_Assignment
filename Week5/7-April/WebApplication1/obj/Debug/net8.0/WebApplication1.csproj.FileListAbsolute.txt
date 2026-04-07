@@ -28,7 +28,6 @@ C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\WebApplication1\obj\
 C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\WebApplication1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\WebApplication1\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
 C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
 C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
@@ -146,3 +145,4 @@ C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\WebApplication1\bin\
 C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
