@@ -12,6 +12,6 @@
     <WebStackScaffolding_DbContextTypeFullName>AzureMVcDemo.Data.AppDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
-    <NameOfLastUsedPublishProfile>C:\Users\Aman Anand\source\repos\Week4\06-March\AzureMVcDemo\Properties\PublishProfiles\AzureDbDemo - Zip Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Aman Anand\source\repos_publish_temp\Week5\06-March\AzureMVcDemo\Properties\PublishProfiles\AzureDbDemo - Zip Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
