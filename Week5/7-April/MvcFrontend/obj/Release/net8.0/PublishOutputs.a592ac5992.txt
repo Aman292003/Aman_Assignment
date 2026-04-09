@@ -1,7 +1,0 @@
-C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\MvcFrontend\obj\Release\net8.0\PubTmp\Out\MvcFrontend.exe
-C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\MvcFrontend\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
-C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\MvcFrontend\obj\Release\net8.0\PubTmp\Out\appsettings.json
-C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\MvcFrontend\obj\Release\net8.0\PubTmp\Out\MvcFrontend.dll
-C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\MvcFrontend\obj\Release\net8.0\PubTmp\Out\MvcFrontend.deps.json
-C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\MvcFrontend\obj\Release\net8.0\PubTmp\Out\MvcFrontend.runtimeconfig.json
-C:\Users\Aman Anand\source\repos_publish_temp\Week5\7-April\MvcFrontend\obj\Release\net8.0\PubTmp\Out\MvcFrontend.pdb

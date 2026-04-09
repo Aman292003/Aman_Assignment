@@ -1,15 +1,11 @@
-using AzureMVcDemo.Data;
-using Microsoft.EntityFrameworkCore;
-
-namespace AzureMVcDemo
+namespace MvcFrontend
 {
     public class Program
     {
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            var connectionString = builder.Configuration.GetConnectionString("AzureSqlConnection"); // here in appsetting u have to give this value //okay from statement 2 okay 
-            builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connectionString));
+
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
@@ -32,7 +28,7 @@ namespace AzureMVcDemo
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=People}/{action=Index}/{id?}");
+                pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
         }

@@ -1,0 +1,15 @@
+# Visual Studio / IDE files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vsidx
+
+# .NET build output
+[Bb]in/
+[Oo]bj/
+
+# Local-only config
+local.settings.json
+**/Properties/serviceDependencies.local.json
