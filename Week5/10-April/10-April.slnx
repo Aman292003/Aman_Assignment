@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AzureFunc/AzureFunc.csproj" />
+  <Project Path="AzureFunction/AzureFunction.csproj" />
+</Solution>
